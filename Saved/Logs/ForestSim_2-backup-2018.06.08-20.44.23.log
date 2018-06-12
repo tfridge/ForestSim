@@ -1,0 +1,996 @@
+﻿Log file open, 06/07/18 22:05:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ForestSim
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2044616940) SRandInit(-2044616940).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.253801
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.076s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Binaries/Win64/UE4Editor-ForestSim-7823.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-5B7CVCV (167.96.146.31:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.08-03.05.41:240][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.08-03.05.41:240][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.08-03.05.41:250][  0]LogInit: Computer: DESKTOP-5B7CVCV
+[2018.06.08-03.05.41:250][  0]LogInit: User: EvanFridge
+[2018.06.08-03.05.41:250][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.08-03.05.41:250][  0]LogInit: High frequency timer resolution =3.515632 MHz
+[2018.06.08-03.05.41:250][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.06.08-03.05.41:250][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.08-03.05.41:250][  0]LogMemory: Process Physical Memory: 274.57 MB used, 274.57 MB peak
+[2018.06.08-03.05.41:250][  0]LogMemory: Process Virtual Memory: 264.74 MB used, 264.74 MB peak
+[2018.06.08-03.05.41:250][  0]LogMemory: Physical Memory: 4463.07 MB used,  11885.62 MB free, 16348.69 MB total
+[2018.06.08-03.05.41:250][  0]LogMemory: Virtual Memory: 4789.54 MB used,  11885.62 MB free, 134217728.00 MB total
+[2018.06.08-03.05.41:262][  0]LogInit: Using OS detected language (en-US).
+[2018.06.08-03.05.41:262][  0]LogInit: Using OS detected locale (en-US).
+[2018.06.08-03.05.41:264][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.06.08-03.05.41:618][  0]LogStreaming: Display: Took  0.356s to EndInitTextLocalization.
+[2018.06.08-03.05.41:618][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.08-03.05.41:648][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.08-03.05.41:648][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.08-03.05.41:784][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.08-03.05.41:821][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.06.08-03.05.41:821][  0]LogD3D11RHI:       8088/0/8174 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.06.08-03.05.41:822][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.08-03.05.41:822][  0]LogD3D11RHI:       0/0/8174 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.08-03.05.41:822][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.08-03.05.41:827][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.08-03.05.41:827][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.08-03.05.41:827][  0]LogWindows: EnumDisplayDevices:
+[2018.06.08-03.05.41:827][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.06.08-03.05.41:828][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.06.08-03.05.41:828][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.06.08-03.05.41:828][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.06.08-03.05.41:828][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.08-03.05.41:828][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.06.08-03.05.41:828][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.08-03.05.41:828][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.08-03.05.41:828][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.06.08-03.05.41:853][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.08-03.05.41:853][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.08-03.05.41:853][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.08-03.05.41:869][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.06.08-03.05.41:970][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Intermediate/Shaders/WorkingDirectory/8700/).
+[2018.06.08-03.05.41:971][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Evan Fridge/AppData/Local/Temp/UnrealShaderWorkingDir/028F2E454F22B241A2168BA7C0841752/'.
+[2018.06.08-03.05.42:145][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.08-03.05.42:155][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.08-03.05.42:164][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.08-03.05.42:174][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.08-03.05.42:184][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.08-03.05.42:194][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.08-03.05.42:204][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.08-03.05.42:214][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.08-03.05.42:219][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.08-03.05.42:228][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.08-03.05.42:237][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.08-03.05.42:246][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.08-03.05.42:255][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.08-03.05.42:264][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.08-03.05.42:273][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.08-03.05.42:291][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.08-03.05.42:291][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.08-03.05.42:300][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.08-03.05.42:301][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.08-03.05.42:335][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.08-03.05.42:344][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.08-03.05.42:352][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.08-03.05.42:361][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.08-03.05.42:371][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.08-03.05.42:380][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.08-03.05.42:380][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.08-03.05.42:453][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.08-03.05.42:453][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.08-03.05.42:453][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.08-03.05.42:981][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.08-03.05.43:041][  0]LogDerivedDataCache: Loaded boot cache 0.06s 77MB C:/Users/Evan Fridge/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.08-03.05.43:041][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Evan Fridge/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.08-03.05.43:041][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.08-03.05.43:041][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.08-03.05.43:041][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.08-03.05.43:041][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.08-03.05.43:054][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.08-03.05.43:066][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Evan Fridge/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.08-03.05.43:066][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.06.08-03.05.43:066][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.06.08-03.05.43:074][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.08-03.05.43:075][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.08-03.05.43:075][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.08-03.05.43:075][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.08-03.05.43:165][  0]LogAssetRegistry: FAssetRegistry took 0.0251 seconds to start up
+[2018.06.08-03.05.43:395][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.08-03.05.43:505][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.08-03.05.43:507][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.08-03.05.43:507][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.08-03.05.43:507][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.08-03.05.43:507][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.08-03.05.43:507][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.08-03.05.43:532][  0]LogNetVersion: ForestSim , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2660769105)
+[2018.06.08-03.05.43:875][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.063998 seconds
+[2018.06.08-03.05.43:879][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.06.08-03.05.43:879][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.06.08-03.05.43:879][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.08-03.05.45:069][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.08-03.05.45:092][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.08-03.05.45:289][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b043eed400, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.08-03.05.45:297][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b043eed400, Size=64
+[2018.06.08-03.05.45:297][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b043eed400, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.08-03.05.45:302][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b043c12700, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.08-03.05.45:360][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.742503ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.06.08-03.05.45:459][  0]SourceControl: Source control is disabled
+[2018.06.08-03.05.45:459][  0]SourceControl: Source control is disabled
+[2018.06.08-03.05.45:470][  0]SourceControl: Source control is disabled
+[2018.06.08-03.05.45:480][  0]SourceControl: Source control is disabled
+[2018.06.08-03.05.45:815][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.08-03.05.45:926][  0]LogOcInput: OculusInput pre-init called
+[2018.06.08-03.05.46:002][  0]LogEngine: Initializing Engine...
+[2018.06.08-03.05.46:003][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.08-03.05.46:004][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.08-03.05.46:004][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.08-03.05.46:185][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.08-03.05.46:201][  0]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.08-03.05.46:216][  0]LogInit: FAudioDevice initialized.
+[2018.06.08-03.05.46:295][  0]LogDerivedDataCache: Saved boot cache 0.08s 77MB C:/Users/Evan Fridge/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.08-03.05.46:310][  0]LogInit: Texture streaming: Enabled
+[2018.06.08-03.05.46:323][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.08-03.05.46:332][  0]LogInit: Transaction tracking system initialized
+[2018.06.08-03.05.46:347][  0]BlueprintLog: New page: Editor Load
+[2018.06.08-03.05.46:426][  0]LocalizationService: Localization service is disabled
+[2018.06.08-03.05.46:498][  0]LogConsoleResponse: Display: 
+[2018.06.08-03.05.46:624][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.08-03.05.46:624][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.08-03.05.46:624][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.08-03.05.46:624][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.08-03.05.46:624][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.08-03.05.46:855][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/' took 0.01s
+[2018.06.08-03.05.46:855][  0]SourceControl: Source control is disabled
+[2018.06.08-03.05.46:855][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.08-03.05.46:855][  0]LightingResults: New page: Lighting Build
+[2018.06.08-03.05.46:857][  0]MapCheck: New page: Map Check
+[2018.06.08-03.05.46:857][  0]LightingResults: New page: Lighting Build
+[2018.06.08-03.05.46:866][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b043eed400, Size=64
+[2018.06.08-03.05.46:996][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.08-03.05.47:004][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.08-03.05.47:015][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.08-03.05.47:055][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 39.948ms to complete.
+[2018.06.08-03.05.47:055][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.200
+[2018.06.08-03.05.47:167][  0]LogCollectionManager: Loaded 0 collections in 0.001086 seconds
+[2018.06.08-03.05.47:207][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Saved/Collections/' took 0.01s
+[2018.06.08-03.05.47:207][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/Developers/EvanFridge/Collections/' took 0.01s
+[2018.06.08-03.05.47:207][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/Collections/' took 0.01s
+[2018.06.08-03.05.47:208][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.06.08-03.05.47:215][  0]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 2461 classes and 563 folders.
+[2018.06.08-03.05.47:221][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.06.08-03.05.47:247][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.06.08-03.05.47:260][  0]LogSlate: Took 0.000326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.08-03.05.47:266][  0]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.08-03.05.47:269][  0]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.08-03.05.47:346][  0]LogRenderer: Reallocating scene render targets to support 1208x672 Format 10 NumSamples 1 (Frame:1).
+[2018.06.08-03.05.47:382][  0]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.08-03.05.47:451][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.06.08-03.05.47:451][  0]LogLoad: (Engine Initialization) Total time: 8.21 seconds
+[2018.06.08-03.05.47:451][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.08-03.05.47:461][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.08-03.05.47:476][  0]LogAssetRegistry: Asset discovery search completed in 4.3337 seconds
+[2018.06.08-03.05.47:478][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.06.08-03.05.47:478][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000034 seconds (updated 0 objects)
+[2018.06.08-03.05.47:481][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.08-03.06.30:061][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.08-03.06.30:076][731]Candidate modules for hot reload:
+[2018.06.08-03.06.30:076][731]  ForestSim
+[2018.06.08-03.06.30:076][731]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,4485 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.08-03.06.30:078][731]Warning: Starting HotReload took  0.0s.
+[2018.06.08-03.06.32:039][964]CompilerResultsLog: New page: Compilation - Jun 7, 2018, 5:06:32 PM
+[2018.06.08-03.06.32:039][964]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.08-03.06.32:039][964]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.06.08-03.06.32:039][964]CompilerResultsLog: ActorDataCore.cpp
+[2018.06.08-03.06.32:039][964]CompilerResultsLog: [2/3] Link UE4Editor-ForestSim-4485.dll
+[2018.06.08-03.06.32:039][964]CompilerResultsLog: [3/3] Link UE4Editor-ForestSim-4485.lib
+[2018.06.08-03.06.32:039][964]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-4485.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-4485.exp
+[2018.06.08-03.06.32:039][964]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-4485.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-4485.suppressed.exp
+[2018.06.08-03.06.32:039][964]CompilerResultsLog: Total build time: 1.77 seconds (Local executor: 1.12 seconds)
+[2018.06.08-03.06.32:039][964]LogMainFrame: MainFrame: Module compiling took 1.969 seconds
+[2018.06.08-03.06.32:065][964]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0006 seconds. Added 8 classes and 3 folders.
+[2018.06.08-03.06.32:066][964]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.08-03.06.32:185][964]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2461 classes and 563 folders.
+[2018.06.08-03.06.32:185][964]Display: HotReload took  2.1s.
+[2018.06.08-03.06.39:041][395]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.08-03.09.05:232][110]Candidate modules for hot reload:
+[2018.06.08-03.09.05:232][110]  ForestSim
+[2018.06.08-03.09.05:232][110]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,6325 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.08-03.09.05:234][110]Warning: Starting HotReload took  0.0s.
+[2018.06.08-03.09.15:903][385]CompilerResultsLog: New page: Compilation - Jun 7, 2018, 5:09:15 PM
+[2018.06.08-03.09.15:903][385]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.08-03.09.15:903][385]CompilerResultsLog: Parsing headers for ForestSimEditor
+[2018.06.08-03.09.15:903][385]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\ForestSim.uproject" "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\ForestSimEditor\Development\ForestSimEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.06.08-03.09.15:903][385]CompilerResultsLog: Reflection code generated for ForestSimEditor in 8.3911669 seconds
+[2018.06.08-03.09.15:903][385]CompilerResultsLog: Performing 6 actions (4 in parallel)
+[2018.06.08-03.09.15:903][385]CompilerResultsLog: Interactable.gen.cpp
+[2018.06.08-03.09.15:903][385]CompilerResultsLog: ForestSim.init.gen.cpp
+[2018.06.08-03.09.15:903][385]CompilerResultsLog: ActorDataCore.cpp
+[2018.06.08-03.09.15:903][385]CompilerResultsLog: Interactable.cpp
+[2018.06.08-03.09.15:903][385]CompilerResultsLog: [5/6] Link UE4Editor-ForestSim-6325.dll
+[2018.06.08-03.09.15:903][385]CompilerResultsLog: [6/6] Link UE4Editor-ForestSim-6325.lib
+[2018.06.08-03.09.15:904][385]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-6325.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-6325.exp
+[2018.06.08-03.09.15:904][385]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-6325.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-6325.suppressed.exp
+[2018.06.08-03.09.15:904][385]CompilerResultsLog: Total build time: 10.50 seconds (Local executor: 1.32 seconds)
+[2018.06.08-03.09.15:904][385]LogMainFrame: MainFrame: Module compiling took 10.678 seconds
+[2018.06.08-03.09.15:927][385]LogClass: Could not find existing class Interactable in package /Script/ForestSim for HotReload, assuming new class
+[2018.06.08-03.09.15:931][385]LogHotReload: Re-instancing Interactable after hot-reload.
+[2018.06.08-03.09.15:967][385]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0006 seconds. Added 8 classes and 3 folders.
+[2018.06.08-03.09.15:969][385]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.08-03.09.16:000][385]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2461 classes and 563 folders.
+[2018.06.08-03.09.16:000][385]Display: HotReload took 10.8s.
+[2018.06.08-03.10.47:302][307]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.06.08-03.10.55:820][301]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.06.08-03.10.56:037][301]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b03b8455e0, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.08-03.10.56:037][301]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b03b8455d8, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.08-03.10.56:349][301]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2018.06.08-03.11.50:597][847]LogSlate: Window 'MyActorDataCore*' being destroyed
+[2018.06.08-03.11.50:601][847]LogSlate: Window 'MyActorDataCore*' being destroyed
+[2018.06.08-03.11.53:190][948]Candidate modules for hot reload:
+[2018.06.08-03.11.53:190][948]  ForestSim
+[2018.06.08-03.11.53:190][948]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,4283 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.08-03.11.53:192][948]Warning: Starting HotReload took  0.0s.
+[2018.06.08-03.12.04:466][295]CompilerResultsLog: New page: Compilation - Jun 7, 2018, 5:12:04 PM
+[2018.06.08-03.12.04:466][295]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.08-03.12.04:466][295]CompilerResultsLog: Parsing headers for ForestSimEditor
+[2018.06.08-03.12.04:466][295]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\ForestSim.uproject" "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\ForestSimEditor\Development\ForestSimEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.06.08-03.12.04:466][295]CompilerResultsLog: Reflection code generated for ForestSimEditor in 8.6617521 seconds
+[2018.06.08-03.12.04:466][295]CompilerResultsLog: Performing 7 actions (4 in parallel)
+[2018.06.08-03.12.04:466][295]CompilerResultsLog: Interactable.gen.cpp
+[2018.06.08-03.12.04:466][295]CompilerResultsLog: ActorDataCore.gen.cpp
+[2018.06.08-03.12.04:466][295]CompilerResultsLog: ForestSim.init.gen.cpp
+[2018.06.08-03.12.04:466][295]CompilerResultsLog: Interactable.cpp
+[2018.06.08-03.12.04:466][295]CompilerResultsLog: ActorDataCore.cpp
+[2018.06.08-03.12.04:466][295]CompilerResultsLog: [6/7] Link UE4Editor-ForestSim-4283.dll
+[2018.06.08-03.12.04:466][295]CompilerResultsLog: [7/7] Link UE4Editor-ForestSim-4283.lib
+[2018.06.08-03.12.04:466][295]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-4283.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-4283.exp
+[2018.06.08-03.12.04:466][295]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-4283.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-4283.suppressed.exp
+[2018.06.08-03.12.04:466][295]CompilerResultsLog: Total build time: 11.10 seconds (Local executor: 1.63 seconds)
+[2018.06.08-03.12.04:466][295]LogMainFrame: MainFrame: Module compiling took 11.283 seconds
+[2018.06.08-03.12.04:497][295]LogClass: Could not find existing class ActorDataCore in package /Script/ForestSim for HotReload, assuming new class
+[2018.06.08-03.12.04:500][295]LogClass: Could not find existing class Interactable in package /Script/ForestSim for HotReload, assuming new class
+[2018.06.08-03.12.04:506][295]LogHotReload: Re-instancing ActorDataCore after hot-reload.
+[2018.06.08-03.12.04:568][295]LogHotReload: Re-instancing Interactable after hot-reload.
+[2018.06.08-03.12.04:624][295]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0006 seconds. Added 8 classes and 3 folders.
+[2018.06.08-03.12.04:626][295]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.08-03.12.04:856][295]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2461 classes and 563 folders.
+[2018.06.08-03.12.04:856][295]Display: HotReload took 11.7s.
+[2018.06.08-03.12.26:488][744]Candidate modules for hot reload:
+[2018.06.08-03.12.26:488][744]  ForestSim
+[2018.06.08-03.12.26:489][744]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,4342 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.08-03.12.26:490][744]Warning: Starting HotReload took  0.0s.
+[2018.06.08-03.12.36:872][986]CompilerResultsLog: New page: Compilation - Jun 7, 2018, 5:12:36 PM
+[2018.06.08-03.12.36:872][986]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.08-03.12.36:872][986]CompilerResultsLog: Parsing headers for ForestSimEditor
+[2018.06.08-03.12.36:872][986]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\ForestSim.uproject" "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\ForestSimEditor\Development\ForestSimEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.06.08-03.12.36:872][986]CompilerResultsLog: Reflection code generated for ForestSimEditor in 8.2341246 seconds
+[2018.06.08-03.12.36:872][986]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.06.08-03.12.36:872][986]CompilerResultsLog: ActorDataCore.gen.cpp
+[2018.06.08-03.12.36:872][986]CompilerResultsLog: ForestSim.init.gen.cpp
+[2018.06.08-03.12.36:872][986]CompilerResultsLog: ActorDataCore.cpp
+[2018.06.08-03.12.36:872][986]CompilerResultsLog: [4/5] Link UE4Editor-ForestSim-4342.dll
+[2018.06.08-03.12.36:872][986]CompilerResultsLog: [5/5] Link UE4Editor-ForestSim-4342.lib
+[2018.06.08-03.12.36:872][986]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-4342.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-4342.exp
+[2018.06.08-03.12.36:872][986]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-4342.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-4342.suppressed.exp
+[2018.06.08-03.12.36:872][986]CompilerResultsLog: Total build time: 10.22 seconds (Local executor: 1.22 seconds)
+[2018.06.08-03.12.36:872][986]LogMainFrame: MainFrame: Module compiling took 10.389 seconds
+[2018.06.08-03.12.36:927][986]LogClass: Could not find existing class ActorDataCore in package /Script/ForestSim for HotReload, assuming new class
+[2018.06.08-03.12.36:937][986]LogHotReload: Re-instancing ActorDataCore after hot-reload.
+[2018.06.08-03.12.37:008][986]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0006 seconds. Added 8 classes and 3 folders.
+[2018.06.08-03.12.37:011][986]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.08-03.12.37:254][986]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2461 classes and 563 folders.
+[2018.06.08-03.12.37:254][986]Display: HotReload took 10.8s.
+[2018.06.08-03.13.13:699][327]LogSlate: Window 'MyActorDataCore*' being destroyed
+[2018.06.08-03.14.03:326][395]Candidate modules for hot reload:
+[2018.06.08-03.14.03:326][395]  ForestSim
+[2018.06.08-03.14.03:326][395]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,9934 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.08-03.14.03:328][395]Warning: Starting HotReload took  0.0s.
+[2018.06.08-03.14.14:594][657]CompilerResultsLog: New page: Compilation - Jun 7, 2018, 5:14:14 PM
+[2018.06.08-03.14.14:595][657]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.08-03.14.14:595][657]CompilerResultsLog: Parsing headers for ForestSimEditor
+[2018.06.08-03.14.14:595][657]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\ForestSim.uproject" "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\ForestSimEditor\Development\ForestSimEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.06.08-03.14.14:595][657]CompilerResultsLog: Reflection code generated for ForestSimEditor in 8.9715487 seconds
+[2018.06.08-03.14.14:595][657]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.06.08-03.14.14:595][657]CompilerResultsLog: ForestSim.init.gen.cpp
+[2018.06.08-03.14.14:595][657]CompilerResultsLog: ActorDataCore.cpp
+[2018.06.08-03.14.14:595][657]CompilerResultsLog: ActorDataCore.gen.cpp
+[2018.06.08-03.14.14:595][657]CompilerResultsLog: [4/5] Link UE4Editor-ForestSim-9934.dll
+[2018.06.08-03.14.14:595][657]CompilerResultsLog: [5/5] Link UE4Editor-ForestSim-9934.lib
+[2018.06.08-03.14.14:595][657]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-9934.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-9934.exp
+[2018.06.08-03.14.14:595][657]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-9934.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-9934.suppressed.exp
+[2018.06.08-03.14.14:595][657]CompilerResultsLog: Total build time: 11.09 seconds (Local executor: 1.32 seconds)
+[2018.06.08-03.14.14:595][657]LogMainFrame: MainFrame: Module compiling took 11.276 seconds
+[2018.06.08-03.14.14:654][657]LogClass: Could not find existing class ActorDataCore in package /Script/ForestSim for HotReload, assuming new class
+[2018.06.08-03.14.14:666][657]LogHotReload: Re-instancing ActorDataCore after hot-reload.
+[2018.06.08-03.14.14:873][657]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0006 seconds. Added 8 classes and 3 folders.
+[2018.06.08-03.14.14:875][657]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.08-03.14.15:117][657]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2461 classes and 563 folders.
+[2018.06.08-03.14.15:117][657]Display: HotReload took 11.8s.
+[2018.06.08-03.15.47:585][575]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.036
+[2018.06.08-03.15.47:588][575]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Database/MyActorDataCore] ([1] browsable assets)...
+[2018.06.08-03.15.47:588][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/Database/MyActorDataCore]
+[2018.06.08-03.15.47:598][575]LogSavePackage: Save=8.56ms
+[2018.06.08-03.15.47:598][575]LogSavePackage: Moving '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Saved/MyActorDataCore_Auto18EE3CEB04A660872069E578E9AF8D9A1.tmp' to '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Saved/Autosaves/Game/Database/MyActorDataCore_Auto1.uasset'
+[2018.06.08-03.15.47:599][575]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Saved/Autosaves/Game/Database/MyActorDataCore_Auto1.uasset
+[2018.06.08-03.15.47:599][575]LogFileHelpers: Auto-saving content packages took 0.013
+[2018.06.08-03.16.26:541][808]Candidate modules for hot reload:
+[2018.06.08-03.16.26:541][808]  ForestSim
+[2018.06.08-03.16.26:541][808]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,6764 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.08-03.16.26:543][808]Warning: Starting HotReload took  0.0s.
+[2018.06.08-03.16.36:160][886]CompilerResultsLog: New page: Compilation - Jun 7, 2018, 5:16:36 PM
+[2018.06.08-03.16.36:161][886]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.08-03.16.36:161][886]CompilerResultsLog: Parsing headers for ForestSimEditor
+[2018.06.08-03.16.36:161][886]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\ForestSim.uproject" "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\ForestSimEditor\Development\ForestSimEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.06.08-03.16.36:161][886]CompilerResultsLog: Error: C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Source/ForestSim/Database/ActorDataCore.h(18)  : Error: Missing '>' in 'class limitor'
+[2018.06.08-03.16.36:161][886]CompilerResultsLog: UnrealHeaderTool failed for target 'ForestSimEditor' (platform: Win64, module info: C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\ForestSimEditor\Development\ForestSimEditor.uhtmanifest).
+[2018.06.08-03.16.36:161][886]LogMainFrame: MainFrame: Module compiling took 9.625 seconds
+[2018.06.08-03.16.36:161][886]Warning: HotReload failed, recompile failed
+[2018.06.08-03.16.58:953][351]LogSlate: Window 'MyActorDataCore*' being destroyed
+[2018.06.08-03.16.58:957][351]LogSlate: Window 'MyActorDataCore*' being destroyed
+[2018.06.08-03.17.00:605][542]LogSlate: Window 'Message Log' being destroyed
+[2018.06.08-03.17.00:608][542]LogSlate: Window 'Message Log' being destroyed
+[2018.06.08-03.17.02:900][816]Candidate modules for hot reload:
+[2018.06.08-03.17.02:900][816]  ForestSim
+[2018.06.08-03.17.02:900][816]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,1874 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.08-03.17.02:902][816]Warning: Starting HotReload took  0.0s.
+[2018.06.08-03.17.13:544][ 92]CompilerResultsLog: New page: Compilation - Jun 7, 2018, 5:17:13 PM
+[2018.06.08-03.17.13:545][ 92]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.08-03.17.13:545][ 92]CompilerResultsLog: Parsing headers for ForestSimEditor
+[2018.06.08-03.17.13:545][ 92]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\ForestSim.uproject" "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\ForestSimEditor\Development\ForestSimEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.06.08-03.17.13:545][ 92]CompilerResultsLog: Reflection code generated for ForestSimEditor in 8.4610209 seconds
+[2018.06.08-03.17.13:545][ 92]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.06.08-03.17.13:545][ 92]CompilerResultsLog: ActorDataCore.gen.cpp
+[2018.06.08-03.17.13:545][ 92]CompilerResultsLog: ActorDataCore.cpp
+[2018.06.08-03.17.13:545][ 92]CompilerResultsLog: ForestSim.init.gen.cpp
+[2018.06.08-03.17.13:545][ 92]CompilerResultsLog: [4/5] Link UE4Editor-ForestSim-1874.dll
+[2018.06.08-03.17.13:545][ 92]CompilerResultsLog: [5/5] Link UE4Editor-ForestSim-1874.lib
+[2018.06.08-03.17.13:545][ 92]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-1874.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-1874.exp
+[2018.06.08-03.17.13:545][ 92]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-1874.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-1874.suppressed.exp
+[2018.06.08-03.17.13:545][ 92]CompilerResultsLog: Total build time: 10.47 seconds (Local executor: 1.22 seconds)
+[2018.06.08-03.17.13:545][ 92]LogMainFrame: MainFrame: Module compiling took 10.651 seconds
+[2018.06.08-03.17.13:591][ 92]LogClass: Could not find existing class ActorDataCore in package /Script/ForestSim for HotReload, assuming new class
+[2018.06.08-03.17.13:602][ 92]LogHotReload: Re-instancing ActorDataCore after hot-reload.
+[2018.06.08-03.17.13:673][ 92]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0006 seconds. Added 8 classes and 3 folders.
+[2018.06.08-03.17.13:675][ 92]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.08-03.17.13:914][ 92]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2461 classes and 563 folders.
+[2018.06.08-03.17.13:914][ 92]Display: HotReload took 11.0s.
+[2018.06.08-03.17.18:533][599]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.06.08-03.17.42:674][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Database/MyActorDataCore" FILE="../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/Database/MyActorDataCore.uasset" SILENT=true
+[2018.06.08-03.17.42:688][463]LogSavePackage: Save=9.48ms
+[2018.06.08-03.17.42:688][463]LogSavePackage: Moving '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Saved/MyActorDataCore9608C526414AAD827BD2A4A1C3AD3E99.tmp' to '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/Database/MyActorDataCore.uasset'
+[2018.06.08-03.17.42:690][463]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/Database/MyActorDataCore.uasset
+[2018.06.08-03.22.14:353][791]Candidate modules for hot reload:
+[2018.06.08-03.22.14:353][791]  ForestSim
+[2018.06.08-03.22.14:354][791]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,8582 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.08-03.22.14:356][791]Warning: Starting HotReload took  0.0s.
+[2018.06.08-03.22.26:064][ 96]CompilerResultsLog: New page: Compilation - Jun 7, 2018, 5:22:26 PM
+[2018.06.08-03.22.26:064][ 96]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.08-03.22.26:064][ 96]CompilerResultsLog: Parsing headers for ForestSimEditor
+[2018.06.08-03.22.26:064][ 96]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\ForestSim.uproject" "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\ForestSimEditor\Development\ForestSimEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.06.08-03.22.26:064][ 96]CompilerResultsLog: Reflection code generated for ForestSimEditor in 9.3274668 seconds
+[2018.06.08-03.22.26:064][ 96]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.06.08-03.22.26:064][ 96]CompilerResultsLog: ActorDataCore.gen.cpp
+[2018.06.08-03.22.26:064][ 96]CompilerResultsLog: ActorDataCore.cpp
+[2018.06.08-03.22.26:064][ 96]CompilerResultsLog: ForestSim.init.gen.cpp
+[2018.06.08-03.22.26:064][ 96]CompilerResultsLog: [4/5] Link UE4Editor-ForestSim-8582.dll
+[2018.06.08-03.22.26:064][ 96]CompilerResultsLog: [5/5] Link UE4Editor-ForestSim-8582.lib
+[2018.06.08-03.22.26:064][ 96]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-8582.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-8582.exp
+[2018.06.08-03.22.26:064][ 96]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-8582.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-8582.suppressed.exp
+[2018.06.08-03.22.26:064][ 96]CompilerResultsLog: Total build time: 11.54 seconds (Local executor: 1.43 seconds)
+[2018.06.08-03.22.26:064][ 96]LogMainFrame: MainFrame: Module compiling took 11.717 seconds
+[2018.06.08-03.22.26:127][ 96]LogClass: Could not find existing class ActorDataCore in package /Script/ForestSim for HotReload, assuming new class
+[2018.06.08-03.22.26:138][ 96]LogHotReload: Re-instancing ActorDataCore after hot-reload.
+[2018.06.08-03.22.26:352][ 96]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0006 seconds. Added 8 classes and 3 folders.
+[2018.06.08-03.22.26:355][ 96]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.08-03.22.26:600][ 96]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2461 classes and 563 folders.
+[2018.06.08-03.22.26:600][ 96]Display: HotReload took 12.3s.
+[2018.06.08-03.22.46:376][436]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.06.08-03.22.47:710][592]LogSlate: Window 'MyActorDataCore' being destroyed
+[2018.06.08-03.22.47:713][592]LogSlate: Window 'MyActorDataCore' being destroyed
+[2018.06.08-03.23.08:400][ 13]Candidate modules for hot reload:
+[2018.06.08-03.23.08:400][ 13]  ForestSim
+[2018.06.08-03.23.08:400][ 13]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,3928 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.08-03.23.08:402][ 13]Warning: Starting HotReload took  0.0s.
+[2018.06.08-03.23.09:188][108]CompilerResultsLog: New page: Compilation - Jun 7, 2018, 5:23:09 PM
+[2018.06.08-03.23.09:188][108]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.08-03.23.09:188][108]CompilerResultsLog: Target is up to date
+[2018.06.08-03.23.09:188][108]CompilerResultsLog: Total build time: 0.63 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2018.06.08-03.23.09:188][108]LogMainFrame: MainFrame: Module compiling took 0.794 seconds
+[2018.06.08-03.23.09:419][108]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2461 classes and 563 folders.
+[2018.06.08-03.23.09:419][108]Display: HotReload took  1.0s.
+[2018.06.08-03.28.31:071][  5]LogSlate: Window 'Delete Assets' being destroyed
+[2018.06.08-03.29.36:566][951]LogEditor: Attempting to add actor of class 'ActorDataCore' to level at -780.00,-740.00,130.00
+[2018.06.08-03.29.37:217][ 28]LogEditor: Attempting to add actor of class 'ActorDataCore' to level at -420.00,-790.00,130.00
+[2018.06.08-03.29.53:549][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.08-03.29.53:570][738]Candidate modules for hot reload:
+[2018.06.08-03.29.53:570][738]  ForestSim
+[2018.06.08-03.29.53:571][738]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,4805 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.08-03.29.53:572][738]Warning: Starting HotReload took  0.0s.
+[2018.06.08-03.30.04:489][ 25]CompilerResultsLog: New page: Compilation - Jun 7, 2018, 5:30:04 PM
+[2018.06.08-03.30.04:489][ 25]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.08-03.30.04:489][ 25]CompilerResultsLog: Parsing headers for ForestSimEditor
+[2018.06.08-03.30.04:489][ 25]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\ForestSim.uproject" "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\ForestSimEditor\Development\ForestSimEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.06.08-03.30.04:489][ 25]CompilerResultsLog: Reflection code generated for ForestSimEditor in 8.6366141 seconds
+[2018.06.08-03.30.04:489][ 25]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.06.08-03.30.04:489][ 25]CompilerResultsLog: ForestSim.init.gen.cpp
+[2018.06.08-03.30.04:489][ 25]CompilerResultsLog: ActorDataCore.gen.cpp
+[2018.06.08-03.30.04:489][ 25]CompilerResultsLog: ActorDataCore.cpp
+[2018.06.08-03.30.04:489][ 25]CompilerResultsLog: [4/5] Link UE4Editor-ForestSim-4805.dll
+[2018.06.08-03.30.04:489][ 25]CompilerResultsLog: [5/5] Link UE4Editor-ForestSim-4805.lib
+[2018.06.08-03.30.04:489][ 25]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-4805.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-4805.exp
+[2018.06.08-03.30.04:489][ 25]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-4805.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-4805.suppressed.exp
+[2018.06.08-03.30.04:489][ 25]CompilerResultsLog: Total build time: 10.75 seconds (Local executor: 1.32 seconds)
+[2018.06.08-03.30.04:489][ 25]LogMainFrame: MainFrame: Module compiling took 10.927 seconds
+[2018.06.08-03.30.04:518][ 25]LogClass: Could not find existing class ActorDataCore in package /Script/ForestSim for HotReload, assuming new class
+[2018.06.08-03.30.04:528][ 25]LogHotReload: Re-instancing ActorDataCore after hot-reload.
+[2018.06.08-03.30.04:590][ 25]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0006 seconds. Added 8 classes and 3 folders.
+[2018.06.08-03.30.04:592][ 25]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.08-03.30.04:814][ 25]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2461 classes and 563 folders.
+[2018.06.08-03.30.04:814][ 25]Display: HotReload took 11.3s.
+[2018.06.08-03.30.28:444][843]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.06.08-03.31.03:649][390]LogSavePackage: Save=108.98ms
+[2018.06.08-03.31.03:649][390]LogSavePackage: Moving '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Saved/ThirdPersonExampleMap_Auto2DA07EF2B4BEEFCDD722FA4820D78B193.tmp' to '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2018.06.08-03.31.03:650][390]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto2.umap
+[2018.06.08-03.31.03:652][390]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.167
+[2018.06.08-03.31.03:652][390]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.167
+[2018.06.08-03.31.07:467][402]Candidate modules for hot reload:
+[2018.06.08-03.31.07:467][402]  ForestSim
+[2018.06.08-03.31.07:467][402]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,4160 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.08-03.31.07:469][402]Warning: Starting HotReload took  0.0s.
+[2018.06.08-03.31.18:325][693]CompilerResultsLog: New page: Compilation - Jun 7, 2018, 5:31:18 PM
+[2018.06.08-03.31.18:325][693]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.08-03.31.18:325][693]CompilerResultsLog: Parsing headers for ForestSimEditor
+[2018.06.08-03.31.18:325][693]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\ForestSim.uproject" "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\ForestSimEditor\Development\ForestSimEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.06.08-03.31.18:325][693]CompilerResultsLog: Reflection code generated for ForestSimEditor in 8.3704727 seconds
+[2018.06.08-03.31.18:325][693]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.06.08-03.31.18:325][693]CompilerResultsLog: ForestSim.init.gen.cpp
+[2018.06.08-03.31.18:325][693]CompilerResultsLog: ActorDataCore.gen.cpp
+[2018.06.08-03.31.18:325][693]CompilerResultsLog: ActorDataCore.cpp
+[2018.06.08-03.31.18:325][693]CompilerResultsLog: [4/5] Link UE4Editor-ForestSim-4160.dll
+[2018.06.08-03.31.18:325][693]CompilerResultsLog: [5/5] Link UE4Editor-ForestSim-4160.lib
+[2018.06.08-03.31.18:325][693]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-4160.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-4160.exp
+[2018.06.08-03.31.18:325][693]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-4160.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-4160.suppressed.exp
+[2018.06.08-03.31.18:325][693]CompilerResultsLog: Total build time: 10.68 seconds (Local executor: 1.52 seconds)
+[2018.06.08-03.31.18:325][693]LogMainFrame: MainFrame: Module compiling took 10.865 seconds
+[2018.06.08-03.31.18:366][693]LogClass: Could not find existing class ActorDataCore in package /Script/ForestSim for HotReload, assuming new class
+[2018.06.08-03.31.18:377][693]LogHotReload: Re-instancing ActorDataCore after hot-reload.
+[2018.06.08-03.31.18:438][693]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0006 seconds. Added 8 classes and 3 folders.
+[2018.06.08-03.31.18:440][693]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.08-03.31.18:664][693]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2461 classes and 563 folders.
+[2018.06.08-03.31.18:664][693]Display: HotReload took 11.2s.
+[2018.06.08-03.31.23:155][227]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.06.08-03.41.04:446][ 99]LogSavePackage: Save=116.06ms
+[2018.06.08-03.41.04:446][ 99]LogSavePackage: Moving '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Saved/ThirdPersonExampleMap_Auto37E6D70B74733F8663AEE8082DC22229D.tmp' to '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2018.06.08-03.41.04:447][ 99]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto3.umap
+[2018.06.08-03.41.04:449][ 99]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.177
+[2018.06.08-03.41.04:449][ 99]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.177
+[2018.06.08-03.43.06:925][467]Candidate modules for hot reload:
+[2018.06.08-03.43.06:925][467]  ForestSim
+[2018.06.08-03.43.06:925][467]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,3403 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.08-03.43.06:927][467]Warning: Starting HotReload took  0.0s.
+[2018.06.08-03.43.16:259][575]CompilerResultsLog: New page: Compilation - Jun 7, 2018, 5:43:16 PM
+[2018.06.08-03.43.16:259][575]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.08-03.43.16:259][575]CompilerResultsLog: Parsing headers for ForestSimEditor
+[2018.06.08-03.43.16:259][575]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\ForestSim.uproject" "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\ForestSimEditor\Development\ForestSimEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.06.08-03.43.16:259][575]CompilerResultsLog: Error: C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Source/ForestSim/Database/ActorDataCore.h(20)  : Error: Missing '>' in 'class limitor'
+[2018.06.08-03.43.16:259][575]CompilerResultsLog: UnrealHeaderTool failed for target 'ForestSimEditor' (platform: Win64, module info: C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\ForestSimEditor\Development\ForestSimEditor.uhtmanifest).
+[2018.06.08-03.43.16:260][575]LogMainFrame: MainFrame: Module compiling took 9.343 seconds
+[2018.06.08-03.43.16:260][575]Warning: HotReload failed, recompile failed
+[2018.06.08-03.43.24:198][212]Candidate modules for hot reload:
+[2018.06.08-03.43.24:198][212]  ForestSim
+[2018.06.08-03.43.24:198][212]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,8026 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.08-03.43.24:201][212]Warning: Starting HotReload took  0.0s.
+[2018.06.08-03.43.36:551][602]CompilerResultsLog: New page: Compilation - Jun 7, 2018, 5:43:36 PM
+[2018.06.08-03.43.36:551][602]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.08-03.43.36:551][602]CompilerResultsLog: Parsing headers for ForestSimEditor
+[2018.06.08-03.43.36:551][602]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\ForestSim.uproject" "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\ForestSimEditor\Development\ForestSimEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.06.08-03.43.36:551][602]CompilerResultsLog: Reflection code generated for ForestSimEditor in 8.8425341 seconds
+[2018.06.08-03.43.36:551][602]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.06.08-03.43.36:551][602]CompilerResultsLog: ActorDataCore.cpp
+[2018.06.08-03.43.36:551][602]CompilerResultsLog: ActorDataCore.gen.cpp
+[2018.06.08-03.43.36:551][602]CompilerResultsLog: ForestSim.init.gen.cpp
+[2018.06.08-03.43.36:551][602]CompilerResultsLog: [4/5] Link UE4Editor-ForestSim-8026.dll
+[2018.06.08-03.43.36:551][602]CompilerResultsLog: [5/5] Link UE4Editor-ForestSim-8026.lib
+[2018.06.08-03.43.36:551][602]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-8026.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-8026.exp
+[2018.06.08-03.43.36:552][602]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-8026.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-8026.suppressed.exp
+[2018.06.08-03.43.36:552][602]CompilerResultsLog: Total build time: 12.17 seconds (Local executor: 2.44 seconds)
+[2018.06.08-03.43.36:552][602]LogMainFrame: MainFrame: Module compiling took 12.360 seconds
+[2018.06.08-03.43.36:591][602]LogClass: Could not find existing class ActorDataCore in package /Script/ForestSim for HotReload, assuming new class
+[2018.06.08-03.43.36:602][602]LogHotReload: Re-instancing ActorDataCore after hot-reload.
+[2018.06.08-03.43.36:662][602]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0006 seconds. Added 8 classes and 3 folders.
+[2018.06.08-03.43.36:664][602]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.08-03.43.36:890][602]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2461 classes and 563 folders.
+[2018.06.08-03.43.36:890][602]Display: HotReload took 12.7s.
+[2018.06.08-03.43.43:793][418]LogSlate: Window 'Message Log' being destroyed
+[2018.06.08-03.43.43:797][418]LogSlate: Window 'Message Log' being destroyed
+[2018.06.08-03.44.22:861][ 85]LogSavePackage: Save=98.59ms
+[2018.06.08-03.44.22:861][ 85]LogSavePackage: Moving '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Saved/ThirdPersonExampleMap6587EE1A4A0B809760AE86B25F411F3F.tmp' to '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2018.06.08-03.44.22:863][ 85]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap
+[2018.06.08-03.44.23:037][ 85]LogSavePackage: Save=148.80ms
+[2018.06.08-03.44.23:037][ 85]LogSavePackage: Moving '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Saved/ThirdPersonExampleMap_BuiltData7E73951A4752AAA4E319DABF75BEBCAB.tmp' to '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.06.08-03.44.23:039][ 85]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.06.08-04.00.09:083][485]Running C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim Win64 Development -editorrecompile "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" -invalidatemakefilesonly
+[2018.06.08-04.00.09:287][485]Invalidating makefiles only in this run.
+[2018.06.08-04.00.09:403][485]Candidate modules for hot reload:
+[2018.06.08-04.00.09:403][485]  ForestSim
+[2018.06.08-04.00.09:403][485]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,1115 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.08-04.00.21:586][485]CompilerResultsLog: New page: Compilation - Jun 7, 2018, 6:00:21 PM
+[2018.06.08-04.00.21:586][485]CompilerResultsLog: Creating makefile for hot reloading ForestSim (no existing makefile)
+[2018.06.08-04.00.21:586][485]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.08-04.00.21:586][485]CompilerResultsLog: Parsing headers for ForestSimEditor
+[2018.06.08-04.00.21:586][485]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\ForestSim.uproject" "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\ForestSimEditor\Development\ForestSimEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.06.08-04.00.21:586][485]CompilerResultsLog: Reflection code generated for ForestSimEditor in 6.7857571 seconds
+[2018.06.08-04.00.21:586][485]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.06.08-04.00.21:586][485]CompilerResultsLog: ObjectField.cpp
+[2018.06.08-04.00.21:586][485]CompilerResultsLog: ObjectField.gen.cpp
+[2018.06.08-04.00.21:586][485]CompilerResultsLog: ForestSim.init.gen.cpp
+[2018.06.08-04.00.21:586][485]CompilerResultsLog: [4/5] Link UE4Editor-ForestSim-1115.dll
+[2018.06.08-04.00.21:586][485]CompilerResultsLog: [5/5] Link UE4Editor-ForestSim-1115.lib
+[2018.06.08-04.00.21:586][485]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-1115.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-1115.exp
+[2018.06.08-04.00.21:586][485]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-1115.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-1115.suppressed.exp
+[2018.06.08-04.00.21:586][485]CompilerResultsLog: Total build time: 12.04 seconds (Local executor: 1.11 seconds)
+[2018.06.08-04.00.21:586][485]LogMainFrame: MainFrame: Module compiling took 12.189 seconds
+[2018.06.08-04.00.21:642][485]LogClass: Could not find existing class ObjectField in package /Script/ForestSim for HotReload, assuming new class
+[2018.06.08-04.00.21:647][485]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0006 seconds. Added 9 classes and 4 folders.
+[2018.06.08-04.00.21:649][485]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.08-04.00.21:880][485]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2462 classes and 564 folders.
+[2018.06.08-04.00.21:880][485]Display: HotReload took 12.5s.
+[2018.06.08-04.00.21:881][485]Warning: HotReload operation took 12.5s.
+[2018.06.08-04.00.22:026][485]LogSlate: Window 'Add C++ Class' being destroyed
+[2018.06.08-04.00.22:036][485]LogHotReload: New module detected: UE4Editor-ForestSim-1115.dll
+[2018.06.08-04.00.22:058][486]LogHotReload: Starting Hot-Reload from IDE
+[2018.06.08-04.00.22:123][486]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0007 seconds. Added 9 classes and 4 folders.
+[2018.06.08-04.00.22:126][486]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.08-04.00.22:349][486]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2462 classes and 564 folders.
+[2018.06.08-04.00.22:355][486]Display: HotReload took  0.3s.
+[2018.06.08-04.08.39:763][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.08-04.16.06:611][973]Candidate modules for hot reload:
+[2018.06.08-04.16.06:611][973]  ForestSim
+[2018.06.08-04.16.06:611][973]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,9770 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.08-04.16.06:613][973]Warning: Starting HotReload took  0.0s.
+[2018.06.08-04.16.16:251][846]CompilerResultsLog: New page: Compilation - Jun 7, 2018, 6:16:16 PM
+[2018.06.08-04.16.16:251][846]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.08-04.16.16:251][846]CompilerResultsLog: Parsing headers for ForestSimEditor
+[2018.06.08-04.16.16:251][846]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\ForestSim.uproject" "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\ForestSimEditor\Development\ForestSimEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.06.08-04.16.16:251][846]CompilerResultsLog: Reflection code generated for ForestSimEditor in 7.9885241 seconds
+[2018.06.08-04.16.16:251][846]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.06.08-04.16.16:251][846]CompilerResultsLog: ObjectField.gen.cpp
+[2018.06.08-04.16.16:251][846]CompilerResultsLog: ForestSim.init.gen.cpp
+[2018.06.08-04.16.16:251][846]CompilerResultsLog: ObjectField.cpp
+[2018.06.08-04.16.16:252][846]CompilerResultsLog: Error: c:\users\evan fridge\documents\unreal projects\forestsim\source\forestsim\interactable\ObjectField.h(26) : error C2143: syntax error: missing ';' before '*'
+[2018.06.08-04.16.16:252][846]CompilerResultsLog: Error: c:\users\evan fridge\documents\unreal projects\forestsim\source\forestsim\interactable\ObjectField.h(26) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2018.06.08-04.16.16:252][846]CompilerResultsLog: Error: c:\users\evan fridge\documents\unreal projects\forestsim\source\forestsim\interactable\ObjectField.h(26) : error C2238: unexpected token(s) preceding ';'
+[2018.06.08-04.16.16:252][846]CompilerResultsLog: Error: c:\users\evan fridge\documents\unreal projects\forestsim\source\forestsim\interactable\ObjectField.h(16) : error C2039: 'ObjectChoices': is not a member of 'AObjectField'
+[2018.06.08-04.16.16:252][846]CompilerResultsLog: Error: c:\users\evan fridge\documents\unreal projects\forestsim\source\forestsim\interactable\ObjectField.h(14) : note: see declaration of 'AObjectField'
+[2018.06.08-04.16.16:252][846]CompilerResultsLog: Error: c:\users\evan fridge\documents\unreal projects\forestsim\source\forestsim\interactable\ObjectField.h(16) : error C2618: illegal member designator in offsetof
+[2018.06.08-04.16.16:252][846]CompilerResultsLog: Error: c:\users\evan fridge\documents\unreal projects\forestsim\source\forestsim\interactable\ObjectField.h(16) : note: offsetof has a builtin meaning; use /Zc:offsetof- to revert to old, non-conforming definition
+[2018.06.08-04.16.16:252][846]CompilerResultsLog: Error: C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Source\ForestSim\Interactable/ObjectField.h(26) : error C2143: syntax error: missing ';' before '*'
+[2018.06.08-04.16.16:252][846]CompilerResultsLog: Error: C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Source\ForestSim\Interactable/ObjectField.h(26) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2018.06.08-04.16.16:252][846]CompilerResultsLog: Error: C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Source\ForestSim\Interactable/ObjectField.h(26) : error C2238: unexpected token(s) preceding ';'
+[2018.06.08-04.16.16:252][846]CompilerResultsLog: Error: C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Source\ForestSim\Interactable/ObjectField.h(16) : error C2039: 'ObjectChoices': is not a member of 'AObjectField'
+[2018.06.08-04.16.16:252][846]CompilerResultsLog: Error: C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Source\ForestSim\Interactable/ObjectField.h(14) : note: see declaration of 'AObjectField'
+[2018.06.08-04.16.16:252][846]CompilerResultsLog: Error: C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Source\ForestSim\Interactable/ObjectField.h(16) : error C2618: illegal member designator in offsetof
+[2018.06.08-04.16.16:252][846]CompilerResultsLog: Error: C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Source\ForestSim\Interactable/ObjectField.h(16) : note: offsetof has a builtin meaning; use /Zc:offsetof- to revert to old, non-conforming definition
+[2018.06.08-04.16.16:252][846]CompilerResultsLog: Error: C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Inc\ForestSim\ObjectField.gen.cpp(61) : error C2039: 'ObjectChoices': is not a member of 'AObjectField'
+[2018.06.08-04.16.16:252][846]CompilerResultsLog: Error: C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Source\ForestSim\Interactable/ObjectField.h(14) : note: see declaration of 'AObjectField'
+[2018.06.08-04.16.16:252][846]CompilerResultsLog: Error: C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Inc\ForestSim\ObjectField.gen.cpp(61) : error C2618: illegal member designator in offsetof
+[2018.06.08-04.16.16:252][846]CompilerResultsLog: Error: C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Inc\ForestSim\ObjectField.gen.cpp(61) : note: offsetof has a builtin meaning; use /Zc:offsetof- to revert to old, non-conforming definition
+[2018.06.08-04.16.16:252][846]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Binaries\Win64\UE4Editor-ForestSim-9770.dll
+[2018.06.08-04.16.16:252][846]CompilerResultsLog: Total build time: 9.17 seconds (Local executor: 0.00 seconds)
+[2018.06.08-04.16.16:252][846]LogMainFrame: MainFrame: Module compiling took 9.648 seconds
+[2018.06.08-04.16.16:252][846]Warning: HotReload failed, recompile failed
+[2018.06.08-04.16.34:652][990]Candidate modules for hot reload:
+[2018.06.08-04.16.34:652][990]  ForestSim
+[2018.06.08-04.16.34:652][990]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,1719 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.08-04.16.34:654][990]Warning: Starting HotReload took  0.0s.
+[2018.06.08-04.16.44:280][117]CompilerResultsLog: New page: Compilation - Jun 7, 2018, 6:16:44 PM
+[2018.06.08-04.16.44:280][117]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.08-04.16.44:280][117]CompilerResultsLog: Parsing headers for ForestSimEditor
+[2018.06.08-04.16.44:280][117]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\ForestSim.uproject" "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\ForestSimEditor\Development\ForestSimEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.06.08-04.16.44:280][117]CompilerResultsLog: Error: C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Source/ForestSim/Interactable/ObjectField.h(26)  : Error: Missing '*' in Expected a pointer type
+[2018.06.08-04.16.44:280][117]CompilerResultsLog: UnrealHeaderTool failed for target 'ForestSimEditor' (platform: Win64, module info: C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\ForestSimEditor\Development\ForestSimEditor.uhtmanifest).
+[2018.06.08-04.16.44:280][117]LogMainFrame: MainFrame: Module compiling took 9.635 seconds
+[2018.06.08-04.16.44:280][117]Warning: HotReload failed, recompile failed
+[2018.06.08-04.16.55:859][682]Candidate modules for hot reload:
+[2018.06.08-04.16.55:859][682]  ForestSim
+[2018.06.08-04.16.55:859][682]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,2847 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.08-04.16.55:861][682]Warning: Starting HotReload took  0.0s.
+[2018.06.08-04.17.06:937][988]CompilerResultsLog: New page: Compilation - Jun 7, 2018, 6:17:06 PM
+[2018.06.08-04.17.06:937][988]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.08-04.17.06:937][988]CompilerResultsLog: Parsing headers for ForestSimEditor
+[2018.06.08-04.17.06:937][988]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\ForestSim.uproject" "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\ForestSimEditor\Development\ForestSimEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.06.08-04.17.06:937][988]CompilerResultsLog: Reflection code generated for ForestSimEditor in 8.6868309 seconds
+[2018.06.08-04.17.06:937][988]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.06.08-04.17.06:937][988]CompilerResultsLog: ObjectField.cpp
+[2018.06.08-04.17.06:937][988]CompilerResultsLog: ObjectField.gen.cpp
+[2018.06.08-04.17.06:937][988]CompilerResultsLog: ForestSim.init.gen.cpp
+[2018.06.08-04.17.06:937][988]CompilerResultsLog: [4/5] Link UE4Editor-ForestSim-2847.dll
+[2018.06.08-04.17.06:937][988]CompilerResultsLog: [5/5] Link UE4Editor-ForestSim-2847.lib
+[2018.06.08-04.17.06:937][988]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-2847.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-2847.exp
+[2018.06.08-04.17.06:937][988]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-2847.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-2847.suppressed.exp
+[2018.06.08-04.17.06:937][988]CompilerResultsLog: Total build time: 10.91 seconds (Local executor: 1.42 seconds)
+[2018.06.08-04.17.06:937][988]LogMainFrame: MainFrame: Module compiling took 11.085 seconds
+[2018.06.08-04.17.07:003][988]LogClass: Could not find existing class ObjectField in package /Script/ForestSim for HotReload, assuming new class
+[2018.06.08-04.17.07:009][988]LogHotReload: Re-instancing ObjectField after hot-reload.
+[2018.06.08-04.17.07:066][988]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0007 seconds. Added 9 classes and 4 folders.
+[2018.06.08-04.17.07:068][988]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.08-04.17.07:295][988]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2462 classes and 564 folders.
+[2018.06.08-04.17.07:295][988]Display: HotReload took 11.4s.
+[2018.06.08-04.17.11:653][508]LogSlate: Window 'Message Log' being destroyed
+[2018.06.08-04.17.11:657][508]LogSlate: Window 'Message Log' being destroyed
+[2018.06.08-04.17.40:132][955]LogEditor: Attempting to add actor of class 'ObjectField' to level at -780.00,-1450.00,410.00
+[2018.06.08-04.17.40:478][995]LogEditor: Attempting to add actor of class 'ObjectField' to level at -360.00,-1090.00,130.00
+[2018.06.08-04.17.42:375][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.08-04.18.20:004][901]LogSavePackage: Save=101.45ms
+[2018.06.08-04.18.20:004][901]LogSavePackage: Moving '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Saved/ThirdPersonExampleMap_Auto42AD7D2E2472758C77C8C3AAAA083A33B.tmp' to '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2018.06.08-04.18.20:006][901]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto4.umap
+[2018.06.08-04.18.20:008][901]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.159
+[2018.06.08-04.18.20:008][901]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.159
+[2018.06.08-04.18.26:821][922]Candidate modules for hot reload:
+[2018.06.08-04.18.26:821][922]  ForestSim
+[2018.06.08-04.18.26:821][922]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,620 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.08-04.18.26:823][922]Warning: Starting HotReload took  0.0s.
+[2018.06.08-04.18.29:345][210]CompilerResultsLog: New page: Compilation - Jun 7, 2018, 6:18:29 PM
+[2018.06.08-04.18.29:345][210]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.08-04.18.29:345][210]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.06.08-04.18.29:345][210]CompilerResultsLog: ForestSimCharacter.cpp
+[2018.06.08-04.18.29:345][210]CompilerResultsLog: [2/3] Link UE4Editor-ForestSim-620.dll
+[2018.06.08-04.18.29:345][210]CompilerResultsLog: [3/3] Link UE4Editor-ForestSim-620.lib
+[2018.06.08-04.18.29:345][210]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-620.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-620.exp
+[2018.06.08-04.18.29:345][210]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-620.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-620.suppressed.exp
+[2018.06.08-04.18.29:345][210]CompilerResultsLog: Total build time: 2.36 seconds (Local executor: 1.72 seconds)
+[2018.06.08-04.18.29:345][210]LogMainFrame: MainFrame: Module compiling took 2.530 seconds
+[2018.06.08-04.18.29:397][210]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0007 seconds. Added 9 classes and 4 folders.
+[2018.06.08-04.18.29:399][210]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.08-04.18.29:619][210]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2462 classes and 564 folders.
+[2018.06.08-04.18.29:619][210]Display: HotReload took  2.8s.
+[2018.06.08-04.30.11:613][991]Candidate modules for hot reload:
+[2018.06.08-04.30.11:613][991]  ForestSim
+[2018.06.08-04.30.11:613][991]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,4596 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.08-04.30.11:615][991]Warning: Starting HotReload took  0.0s.
+[2018.06.08-04.30.21:894][981]CompilerResultsLog: New page: Compilation - Jun 7, 2018, 6:30:21 PM
+[2018.06.08-04.30.21:894][981]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.08-04.30.21:894][981]CompilerResultsLog: Parsing headers for ForestSimEditor
+[2018.06.08-04.30.21:894][981]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\ForestSim.uproject" "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\ForestSimEditor\Development\ForestSimEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.06.08-04.30.21:894][981]CompilerResultsLog: Reflection code generated for ForestSimEditor in 8.3387379 seconds
+[2018.06.08-04.30.21:894][981]CompilerResultsLog: Performing 6 actions (4 in parallel)
+[2018.06.08-04.30.21:894][981]CompilerResultsLog: ObjectField.cpp
+[2018.06.08-04.30.21:894][981]CompilerResultsLog: ObjectField.gen.cpp
+[2018.06.08-04.30.21:894][981]CompilerResultsLog: ForestSim.init.gen.cpp
+[2018.06.08-04.30.21:894][981]CompilerResultsLog: Interactable.cpp
+[2018.06.08-04.30.21:894][981]CompilerResultsLog: Error: C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Source\ForestSim\Interactable\ObjectField.cpp(14) : error C4018: '<': signed/unsigned mismatch
+[2018.06.08-04.30.21:894][981]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Binaries\Win64\UE4Editor-ForestSim-4596.dll
+[2018.06.08-04.30.21:894][981]CompilerResultsLog: Total build time: 9.80 seconds (Local executor: 0.00 seconds)
+[2018.06.08-04.30.21:894][981]LogMainFrame: MainFrame: Module compiling took 10.290 seconds
+[2018.06.08-04.30.21:894][981]Warning: HotReload failed, recompile failed
+[2018.06.08-04.31.08:522][428]Candidate modules for hot reload:
+[2018.06.08-04.31.08:522][428]  ForestSim
+[2018.06.08-04.31.08:522][428]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,6564 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.08-04.31.08:524][428]Warning: Starting HotReload took  0.0s.
+[2018.06.08-04.31.09:948][595]CompilerResultsLog: New page: Compilation - Jun 7, 2018, 6:31:09 PM
+[2018.06.08-04.31.09:949][595]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.08-04.31.09:949][595]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.06.08-04.31.09:949][595]CompilerResultsLog: ObjectField.cpp
+[2018.06.08-04.31.09:949][595]CompilerResultsLog: Error: C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Source\ForestSim\Interactable\ObjectField.cpp(14) : error C4018: '<': signed/unsigned mismatch
+[2018.06.08-04.31.09:949][595]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Binaries\Win64\UE4Editor-ForestSim-6564.dll
+[2018.06.08-04.31.09:949][595]CompilerResultsLog: Total build time: 1.26 seconds (Local executor: 0.00 seconds)
+[2018.06.08-04.31.09:949][595]LogMainFrame: MainFrame: Module compiling took 1.434 seconds
+[2018.06.08-04.31.09:949][595]Warning: HotReload failed, recompile failed
+[2018.06.08-04.31.18:243][237]Candidate modules for hot reload:
+[2018.06.08-04.31.18:243][237]  ForestSim
+[2018.06.08-04.31.18:244][237]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,1418 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.08-04.31.18:246][237]Warning: Starting HotReload took  0.0s.
+[2018.06.08-04.31.19:664][403]CompilerResultsLog: New page: Compilation - Jun 7, 2018, 6:31:19 PM
+[2018.06.08-04.31.19:664][403]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.08-04.31.19:664][403]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.06.08-04.31.19:664][403]CompilerResultsLog: ObjectField.cpp
+[2018.06.08-04.31.19:664][403]CompilerResultsLog: Error: C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Source\ForestSim\Interactable\ObjectField.cpp(14) : error C4018: '<': signed/unsigned mismatch
+[2018.06.08-04.31.19:664][403]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Binaries\Win64\UE4Editor-ForestSim-1418.dll
+[2018.06.08-04.31.19:664][403]CompilerResultsLog: Total build time: 1.26 seconds (Local executor: 0.00 seconds)
+[2018.06.08-04.31.19:664][403]LogMainFrame: MainFrame: Module compiling took 1.427 seconds
+[2018.06.08-04.31.19:664][403]Warning: HotReload failed, recompile failed
+[2018.06.08-04.32.54:808][376]Candidate modules for hot reload:
+[2018.06.08-04.32.54:808][376]  ForestSim
+[2018.06.08-04.32.54:808][376]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,1922 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.08-04.32.54:810][376]Warning: Starting HotReload took  0.0s.
+[2018.06.08-04.32.56:851][614]CompilerResultsLog: New page: Compilation - Jun 7, 2018, 6:32:56 PM
+[2018.06.08-04.32.56:851][614]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.08-04.32.56:851][614]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.06.08-04.32.56:851][614]CompilerResultsLog: ObjectField.cpp
+[2018.06.08-04.32.56:851][614]CompilerResultsLog: [2/3] Link UE4Editor-ForestSim-1922.dll
+[2018.06.08-04.32.56:851][614]CompilerResultsLog: [3/3] Link UE4Editor-ForestSim-1922.lib
+[2018.06.08-04.32.56:851][614]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-1922.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-1922.exp
+[2018.06.08-04.32.56:851][614]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-1922.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-1922.suppressed.exp
+[2018.06.08-04.32.56:851][614]CompilerResultsLog: Total build time: 1.88 seconds (Local executor: 1.22 seconds)
+[2018.06.08-04.32.56:851][614]LogMainFrame: MainFrame: Module compiling took 2.050 seconds
+[2018.06.08-04.32.56:920][614]LogClass: Could not find existing class ObjectField in package /Script/ForestSim for HotReload, assuming new class
+[2018.06.08-04.32.56:924][614]LogHotReload: Re-instancing Interactable after hot-reload.
+[2018.06.08-04.32.56:993][614]LogHotReload: Re-instancing ObjectField after hot-reload.
+[2018.06.08-04.32.57:061][614]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0007 seconds. Added 9 classes and 4 folders.
+[2018.06.08-04.32.57:064][614]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.08-04.32.57:311][614]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2462 classes and 564 folders.
+[2018.06.08-04.32.57:311][614]Display: HotReload took  2.5s.
+[2018.06.08-04.32.58:997][812]LogSlate: Window 'Message Log' being destroyed
+[2018.06.08-04.32.59:000][812]LogSlate: Window 'Message Log' being destroyed
+[2018.06.08-04.34.26:073][197]Candidate modules for hot reload:
+[2018.06.08-04.34.26:073][197]  ForestSim
+[2018.06.08-04.34.26:073][197]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,7695 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.08-04.34.26:075][197]Warning: Starting HotReload took  0.0s.
+[2018.06.08-04.34.28:027][425]CompilerResultsLog: New page: Compilation - Jun 7, 2018, 6:34:28 PM
+[2018.06.08-04.34.28:027][425]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.08-04.34.28:027][425]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.06.08-04.34.28:027][425]CompilerResultsLog: ObjectField.cpp
+[2018.06.08-04.34.28:027][425]CompilerResultsLog: [2/3] Link UE4Editor-ForestSim-7695.dll
+[2018.06.08-04.34.28:027][425]CompilerResultsLog: [3/3] Link UE4Editor-ForestSim-7695.lib
+[2018.06.08-04.34.28:027][425]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-7695.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-7695.exp
+[2018.06.08-04.34.28:027][425]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-7695.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-7695.suppressed.exp
+[2018.06.08-04.34.28:027][425]CompilerResultsLog: Total build time: 1.78 seconds (Local executor: 1.12 seconds)
+[2018.06.08-04.34.28:027][425]LogMainFrame: MainFrame: Module compiling took 1.960 seconds
+[2018.06.08-04.34.28:100][425]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0007 seconds. Added 9 classes and 4 folders.
+[2018.06.08-04.34.28:103][425]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.08-04.34.28:343][425]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2462 classes and 564 folders.
+[2018.06.08-04.34.28:343][425]Display: HotReload took  2.3s.
+[2018.06.08-04.34.35:682][300]LogEditor: Attempting to add actor of class 'ObjectField' to level at -750.00,-1450.00,600.00
+[2018.06.08-04.34.36:274][370]LogEditor: Attempting to add actor of class 'ObjectField' to level at -420.00,-1100.00,130.00
+[2018.06.08-04.34.38:875][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.08-04.34.41:399][983]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.08-04.34.41:412][983]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.08-04.34.41:413][983]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.08-04.34.41:415][983]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 7, 2018, 6:34:41 PM)
+[2018.06.08-04.34.41:416][983]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.08-04.34.41:432][983]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015795s)
+[2018.06.08-04.34.41:432][983]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.08-04.34.41:432][983]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2018.06.08-04.34.41:432][983]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016765s)
+[2018.06.08-04.34.41:487][983]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.08-04.34.41:494][983]LogInit: FAudioDevice initialized.
+[2018.06.08-04.34.41:537][983]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.08-04.34.41:546][983]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.07-23.34.41
+[2018.06.08-04.34.41:549][983]LogWorld: Bringing up level for play took: 0.004310
+[2018.06.08-04.34.41:578][983]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2018.06.08-04.34.42:492][983]LogWindows: Error: === Critical error: ===
+[2018.06.08-04.34.42:492][983]LogWindows: Error: 
+[2018.06.08-04.34.42:492][983]LogWindows: Error: Fatal error!
+[2018.06.08-04.34.42:492][983]LogWindows: Error: 
+[2018.06.08-04.34.42:492][983]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x00000068
+[2018.06.08-04.34.42:492][983]LogWindows: Error: 
+[2018.06.08-04.34.42:492][983]LogWindows: Error: [Callstack] 0x0000000053FCD0A5 UE4Editor-Engine.dll!UnknownFunction []
+[2018.06.08-04.34.42:492][983]LogWindows: Error: [Callstack] 0x0000000053FFAA7B UE4Editor-Engine.dll!UnknownFunction []
+[2018.06.08-04.34.42:492][983]LogWindows: Error: [Callstack] 0x000000003F226449 UE4Editor-ForestSim-7695.dll!AObjectField::BeginPlay() [c:\users\evan fridge\documents\unreal projects\forestsim\source\forestsim\interactable\objectfield.cpp:13]
+[2018.06.08-04.34.42:492][983]LogWindows: Error: [Callstack] 0x00000000539E72FB UE4Editor-Engine.dll!UnknownFunction []
+[2018.06.08-04.34.42:492][983]LogWindows: Error: [Callstack] 0x0000000054C9AE33 UE4Editor-Engine.dll!UnknownFunction []
+[2018.06.08-04.34.42:492][983]LogWindows: Error: [Callstack] 0x000000005415F731 UE4Editor-Engine.dll!UnknownFunction []
+[2018.06.08-04.34.42:492][983]LogWindows: Error: [Callstack] 0x0000000054C8414E UE4Editor-Engine.dll!UnknownFunction []
+[2018.06.08-04.34.42:492][983]LogWindows: Error: [Callstack] 0x000000005418443E UE4Editor-Engine.dll!UnknownFunction []
+[2018.06.08-04.34.42:492][983]LogWindows: Error: [Callstack] 0x00000000525427E0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.06.08-04.34.42:492][983]LogWindows: Error: [Callstack] 0x0000000052561246 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.06.08-04.34.42:492][983]LogWindows: Error: [Callstack] 0x000000005257BBEF UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.06.08-04.34.42:492][983]LogWindows: Error: [Callstack] 0x0000000051FEC961 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.06.08-04.34.42:492][983]LogWindows: Error: [Callstack] 0x0000000052889626 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.06.08-04.34.42:492][983]LogWindows: Error: [Callstack] 0x00000000F7FC5EAC UE4Editor.exe!UnknownFunction []
+[2018.06.08-04.34.42:492][983]LogWindows: Error: [Callstack] 0x00000000F7FD6BD0 UE4Editor.exe!UnknownFunction []
+[2018.06.08-04.34.42:492][983]LogWindows: Error: [Callstack] 0x00000000F7FD6C4A UE4Editor.exe!UnknownFunction []
+[2018.06.08-04.34.42:492][983]LogWindows: Error: [Callstack] 0x00000000F7FE4177 UE4Editor.exe!UnknownFunction []
+[2018.06.08-04.34.42:492][983]LogWindows: Error: [Callstack] 0x00000000F7FE5B87 UE4Editor.exe!UnknownFunction []
+[2018.06.08-04.34.42:492][983]LogWindows: Error: [Callstack] 0x0000000096E33034 KERNEL32.DLL!UnknownFunction []
+[2018.06.08-04.34.42:492][983]LogWindows: Error: [Callstack] 0x0000000097BD1551 ntdll.dll!UnknownFunction []
+[2018.06.08-04.34.42:492][983]LogWindows: Error: [Callstack] 0x0000000097BD1551 ntdll.dll!UnknownFunction []
+[2018.06.08-04.34.42:492][983]LogWindows: Error: 
+[2018.06.08-04.34.42:501][983]LogExit: Executing StaticShutdownAfterError
+[2018.06.08-04.34.42:504][983]LogWindows: FPlatformMisc::RequestExit(1)
+[2018.06.08-04.34.42:504][983]Log file closed, 06/07/18 23:34:42

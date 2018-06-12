@@ -1,0 +1,25 @@
+﻿  Deleting old hot reload file: "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Binaries\Win64\UE4Editor-ForestSim-2469.dll".
+  Deleting old hot reload file: "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Binaries\Win64\UE4Editor-ForestSim-2469.pdb".
+  Deleting old hot reload file: "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Binaries\Win64\UE4Editor-ForestSim-4180.dll".
+  Deleting old hot reload file: "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Binaries\Win64\UE4Editor-ForestSim-4180.pdb".
+  Deleting old hot reload file: "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Binaries\Win64\UE4Editor-ForestSim-5009.dll".
+  Deleting old hot reload file: "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Binaries\Win64\UE4Editor-ForestSim-5009.pdb".
+  Deleting old hot reload file: "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Binaries\Win64\UE4Editor-ForestSim-5182.dll".
+  Deleting old hot reload file: "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Binaries\Win64\UE4Editor-ForestSim-5182.pdb".
+  Deleting old hot reload file: "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Binaries\Win64\UE4Editor-ForestSim-6631.dll".
+  Deleting old hot reload file: "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Binaries\Win64\UE4Editor-ForestSim-6631.pdb".
+  Deleting old hot reload file: "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Binaries\Win64\UE4Editor-ForestSim-8543.dll".
+  Deleting old hot reload file: "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Binaries\Win64\UE4Editor-ForestSim-8543.pdb".
+  Deleting old hot reload file: "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Binaries\Win64\UE4Editor-ForestSim-9092.dll".
+  Deleting old hot reload file: "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Binaries\Win64\UE4Editor-ForestSim-9092.pdb".
+  Deleting old hot reload file: "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Binaries\Win64\UE4Editor-ForestSim-926.dll".
+  Deleting old hot reload file: "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Binaries\Win64\UE4Editor-ForestSim-926.pdb".
+  Deleting old hot reload file: "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Binaries\Win64\UE4Editor-ForestSim-9267.dll".
+  Deleting old hot reload file: "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Binaries\Win64\UE4Editor-ForestSim-9267.pdb".
+  Performing 3 actions (4 in parallel)
+  ObjectField.cpp
+  [2/3] Link UE4Editor-ForestSim.dll
+  [3/3] Link UE4Editor-ForestSim.lib
+     Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim.exp
+     Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim.suppressed.exp
+  Total build time: 2.50 seconds (Local executor: 1.72 seconds)

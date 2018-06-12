@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\ForestSim.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{7063046C-D3A2-4F19-AFAC-78091FE0D0F9}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\ForestSim.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\ForestSimEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{07BDC453-5C12-42AA-8074-D2F20F240255}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\ForestSim">
+			<UniqueIdentifier>{9B6E360F-9338-4792-B633-BA4423FE4654}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\ForestSim\ForestSim.Build.cs">
+			<Filter>Source\ForestSim</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\ForestSim\ForestSim.cpp">
+			<Filter>Source\ForestSim</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ForestSim\ForestSim.h">
+			<Filter>Source\ForestSim</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ForestSim\ForestSimCharacter.cpp">
+			<Filter>Source\ForestSim</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ForestSim\ForestSimCharacter.h">
+			<Filter>Source\ForestSim</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ForestSim\ForestSimGameMode.cpp">
+			<Filter>Source\ForestSim</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ForestSim\ForestSimGameMode.h">
+			<Filter>Source\ForestSim</Filter>
+		</ClInclude >
+		<Filter Include="Source\ForestSim\Database">
+			<UniqueIdentifier>{4794ED6C-B814-443F-B34F-D5976D2359CB}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\ForestSim\Database\ActorDataCore.cpp">
+			<Filter>Source\ForestSim\Database</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ForestSim\Database\ActorDataCore.h">
+			<Filter>Source\ForestSim\Database</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ForestSim\Database\Burnable.cpp">
+			<Filter>Source\ForestSim\Database</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ForestSim\Database\Burnable.h">
+			<Filter>Source\ForestSim\Database</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ForestSim\Database\CharacterData.cpp">
+			<Filter>Source\ForestSim\Database</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ForestSim\Database\CharacterData.h">
+			<Filter>Source\ForestSim\Database</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ForestSim\Database\Interactable.cpp">
+			<Filter>Source\ForestSim\Database</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ForestSim\Database\Interactable.h">
+			<Filter>Source\ForestSim\Database</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ForestSim\Database\Nerve.cpp">
+			<Filter>Source\ForestSim\Database</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ForestSim\Database\Nerve.h">
+			<Filter>Source\ForestSim\Database</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ForestSim\Database\Nerve_Int.cpp">
+			<Filter>Source\ForestSim\Database</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ForestSim\Database\Nerve_Int.h">
+			<Filter>Source\ForestSim\Database</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ForestSim\Database\Protocol.cpp">
+			<Filter>Source\ForestSim\Database</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ForestSim\Database\Protocol.h">
+			<Filter>Source\ForestSim\Database</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ForestSim\Database\WorldSpace.cpp">
+			<Filter>Source\ForestSim\Database</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ForestSim\Database\WorldSpace.h">
+			<Filter>Source\ForestSim\Database</Filter>
+		</ClInclude >
+		<Filter Include="Source\ForestSim\Interactable">
+			<UniqueIdentifier>{E5BE0DAC-51B8-4317-A71B-004086EFC5F3}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\ForestSim\Interactable\ObjectField.cpp">
+			<Filter>Source\ForestSim\Interactable</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ForestSim\Interactable\ObjectField.h">
+			<Filter>Source\ForestSim\Interactable</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

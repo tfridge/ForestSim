@@ -1,0 +1,1024 @@
+﻿Log file open, 06/10/18 02:36:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ForestSim
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1671270209) SRandInit(1671270209).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.355874
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.088s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Binaries/Win64/UE4Editor-ForestSim.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-5B7CVCV (167.96.135.116:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.10-07.36.54:254][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.10-07.36.54:254][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.10-07.36.54:265][  0]LogInit: Computer: DESKTOP-5B7CVCV
+[2018.06.10-07.36.54:265][  0]LogInit: User: EvanFridge
+[2018.06.10-07.36.54:266][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.10-07.36.54:266][  0]LogInit: High frequency timer resolution =3.515621 MHz
+[2018.06.10-07.36.54:266][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.06.10-07.36.54:266][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.10-07.36.54:266][  0]LogMemory: Process Physical Memory: 275.48 MB used, 275.48 MB peak
+[2018.06.10-07.36.54:266][  0]LogMemory: Process Virtual Memory: 265.20 MB used, 265.20 MB peak
+[2018.06.10-07.36.54:266][  0]LogMemory: Physical Memory: 6054.25 MB used,  10294.44 MB free, 16348.69 MB total
+[2018.06.10-07.36.54:266][  0]LogMemory: Virtual Memory: 4789.74 MB used,  10294.44 MB free, 134217728.00 MB total
+[2018.06.10-07.36.54:371][  0]LogInit: Using OS detected language (en-US).
+[2018.06.10-07.36.54:371][  0]LogInit: Using OS detected locale (en-US).
+[2018.06.10-07.36.54:373][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.06.10-07.36.54:715][  0]LogStreaming: Display: Took  0.344s to EndInitTextLocalization.
+[2018.06.10-07.36.54:716][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.10-07.36.54:765][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.10-07.36.54:765][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.10-07.36.54:910][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.10-07.36.54:989][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.06.10-07.36.54:989][  0]LogD3D11RHI:       8088/0/8174 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.06.10-07.36.54:993][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.10-07.36.54:994][  0]LogD3D11RHI:       0/0/8174 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.10-07.36.54:994][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.10-07.36.54:999][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.10-07.36.54:999][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.10-07.36.54:999][  0]LogWindows: EnumDisplayDevices:
+[2018.06.10-07.36.55:000][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.06.10-07.36.55:000][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.06.10-07.36.55:000][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.06.10-07.36.55:000][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.06.10-07.36.55:000][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.10-07.36.55:000][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.06.10-07.36.55:000][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.10-07.36.55:001][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.10-07.36.55:001][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.06.10-07.36.55:031][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.10-07.36.55:031][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.10-07.36.55:031][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.10-07.36.55:048][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.06.10-07.36.55:146][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Intermediate/Shaders/WorkingDirectory/4680/).
+[2018.06.10-07.36.55:146][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Evan Fridge/AppData/Local/Temp/UnrealShaderWorkingDir/8FA046FB43E1161343F68C8F577B4A1C/'.
+[2018.06.10-07.36.55:316][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.10-07.36.55:333][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.10-07.36.55:350][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.10-07.36.55:367][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.10-07.36.55:384][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.10-07.36.55:401][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.10-07.36.55:417][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.10-07.36.55:434][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.10-07.36.55:446][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.10-07.36.55:460][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.10-07.36.55:474][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.10-07.36.55:487][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.10-07.36.55:502][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.10-07.36.55:517][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.10-07.36.55:531][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.10-07.36.55:558][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.10-07.36.55:558][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.10-07.36.55:571][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.10-07.36.55:576][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.10-07.36.55:626][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.10-07.36.55:639][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.10-07.36.55:650][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.10-07.36.55:663][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.10-07.36.55:676][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.10-07.36.55:690][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.10-07.36.55:690][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.10-07.36.55:891][  0]LogXGEController: Cleaning working directory: C:/Users/Evan Fridge/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.06.10-07.36.55:891][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.10-07.36.55:891][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.10-07.36.55:891][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.10-07.36.56:432][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.10-07.36.56:503][  0]LogDerivedDataCache: Loaded boot cache 0.07s 96MB C:/Users/Evan Fridge/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.10-07.36.56:503][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Evan Fridge/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.10-07.36.56:503][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.10-07.36.56:503][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.10-07.36.56:504][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.10-07.36.56:504][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.10-07.36.56:516][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.10-07.36.56:529][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Evan Fridge/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.10-07.36.56:529][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.06.10-07.36.56:529][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.06.10-07.36.56:540][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.10-07.36.56:540][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.10-07.36.56:541][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.10-07.36.56:541][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.10-07.36.56:640][  0]LogAssetRegistry: FAssetRegistry took 0.0277 seconds to start up
+[2018.06.10-07.36.56:877][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.10-07.36.57:033][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.10-07.36.57:042][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.10-07.36.57:042][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.10-07.36.57:042][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.10-07.36.57:042][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.10-07.36.57:042][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.10-07.36.57:069][  0]LogNetVersion: ForestSim , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2660769105)
+[2018.06.10-07.36.57:426][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.068819 seconds
+[2018.06.10-07.36.57:433][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.06.10-07.36.57:433][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.06.10-07.36.57:433][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.10-07.36.59:063][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.10-07.36.59:095][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.10-07.36.59:378][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000260c44009c0, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.10-07.36.59:387][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000260c44009c0, Size=64
+[2018.06.10-07.36.59:387][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000260c37c2e00, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.10-07.36.59:395][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000260c403a700, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.10-07.36.59:459][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.549371ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.06.10-07.36.59:834][  0]SourceControl: Source control is disabled
+[2018.06.10-07.36.59:834][  0]SourceControl: Source control is disabled
+[2018.06.10-07.36.59:855][  0]SourceControl: Source control is disabled
+[2018.06.10-07.36.59:874][  0]SourceControl: Source control is disabled
+[2018.06.10-07.37.00:423][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.10-07.37.00:615][  0]LogOcInput: OculusInput pre-init called
+[2018.06.10-07.37.00:734][  0]LogEngine: Initializing Engine...
+[2018.06.10-07.37.00:735][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.10-07.37.00:736][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.10-07.37.00:736][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.10-07.37.00:935][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.10-07.37.00:992][  0]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.37.01:018][  0]LogInit: FAudioDevice initialized.
+[2018.06.10-07.37.01:108][  0]LogDerivedDataCache: Saved boot cache 0.09s 96MB C:/Users/Evan Fridge/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.10-07.37.01:127][  0]LogInit: Texture streaming: Enabled
+[2018.06.10-07.37.01:163][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.10-07.37.01:179][  0]LogInit: Transaction tracking system initialized
+[2018.06.10-07.37.01:232][  0]BlueprintLog: New page: Editor Load
+[2018.06.10-07.37.01:443][  0]LocalizationService: Localization service is disabled
+[2018.06.10-07.37.01:596][  0]LogConsoleResponse: Display: 
+[2018.06.10-07.37.01:732][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.10-07.37.01:733][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.10-07.37.01:733][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.10-07.37.01:733][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.10-07.37.01:733][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.10-07.37.02:157][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/' took 0.03s
+[2018.06.10-07.37.02:158][  0]SourceControl: Source control is disabled
+[2018.06.10-07.37.02:158][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/A_TestLevels/NewWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.10-07.37.02:158][  0]LightingResults: New page: Lighting Build
+[2018.06.10-07.37.02:162][  0]MapCheck: New page: Map Check
+[2018.06.10-07.37.02:162][  0]LightingResults: New page: Lighting Build
+[2018.06.10-07.37.02:172][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000260c37c2e00, Size=64
+[2018.06.10-07.37.02:343][  0]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.37.02:376][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.10-07.37.02:387][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.10-07.37.02:432][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 44.54ms to complete.
+[2018.06.10-07.37.02:432][  0]LogFileHelpers: Loading map 'NewWorld' took 0.274
+[2018.06.10-07.37.02:577][  0]LogCollectionManager: Loaded 0 collections in 0.001951 seconds
+[2018.06.10-07.37.02:626][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Saved/Collections/' took 0.01s
+[2018.06.10-07.37.02:626][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/Developers/EvanFridge/Collections/' took 0.01s
+[2018.06.10-07.37.02:626][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/Collections/' took 0.01s
+[2018.06.10-07.37.02:626][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.06.10-07.37.02:635][  0]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2464 classes and 564 folders.
+[2018.06.10-07.37.02:643][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2018.06.10-07.37.02:673][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.06.10-07.37.02:687][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.10-07.37.02:691][  0]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.10-07.37.02:693][  0]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.10-07.37.02:765][  0]LogRenderer: Reallocating scene render targets to support 1208x672 Format 10 NumSamples 1 (Frame:1).
+[2018.06.10-07.37.02:801][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.10-07.37.02:870][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.06.10-07.37.02:870][  0]LogLoad: (Engine Initialization) Total time: 11.24 seconds
+[2018.06.10-07.37.02:870][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.10-07.37.02:879][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.10-07.37.02:900][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.10-07.37.02:940][  1]LogAssetRegistry: Asset discovery search completed in 6.3244 seconds
+[2018.06.10-07.37.02:942][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.06.10-07.37.02:942][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000174 seconds (updated 0 objects)
+[2018.06.10-07.37.09:169][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.37.10:731][863]LogEditorActor: Deleted Actor: ObjectField
+[2018.06.10-07.37.10:742][863]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2018.06.10-07.37.15:032][376]LogEditor: Attempting to add actor of class 'ObjectField' to level at 3940.00,-300.00,-1110.00
+[2018.06.10-07.37.16:456][515]LogEditor: Attempting to add actor of class 'ObjectField' to level at 3480.00,-3460.00,-400.00
+[2018.06.10-07.37.18:252][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.37.18:344][690]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.37.18:358][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.37.18:359][690]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:37:18 PM)
+[2018.06.10-07.37.18:359][690]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.37.18:395][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036759s)
+[2018.06.10-07.37.18:396][690]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.37.18:396][690]LogPlayLevel: PIE: World Init took: (0.001186s)
+[2018.06.10-07.37.18:396][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.038522s)
+[2018.06.10-07.37.18:419][690]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.37.18:427][690]LogInit: FAudioDevice initialized.
+[2018.06.10-07.37.18:475][690]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.37.18:479][690]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.37.18
+[2018.06.10-07.37.18:480][690]LogWorld: Bringing up level for play took: 0.003125
+[2018.06.10-07.37.18:484][690]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2018.06.10-07.37.18:485][690]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld 0.513
+[2018.06.10-07.37.27:599][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.37.34:926][  8]Candidate modules for hot reload:
+[2018.06.10-07.37.34:926][  8]  ForestSim
+[2018.06.10-07.37.34:926][  8]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,7234 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.10-07.37.34:929][  8]Warning: Starting HotReload took  0.0s.
+[2018.06.10-07.37.38:129][378]CompilerResultsLog: New page: Compilation - Jun 9, 2018, 9:37:38 PM
+[2018.06.10-07.37.38:129][378]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.10-07.37.38:129][378]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.06.10-07.37.38:129][378]CompilerResultsLog: ObjectField.cpp
+[2018.06.10-07.37.38:129][378]CompilerResultsLog: [2/3] Link UE4Editor-ForestSim-7234.dll
+[2018.06.10-07.37.38:129][378]CompilerResultsLog: [3/3] Link UE4Editor-ForestSim-7234.lib
+[2018.06.10-07.37.38:129][378]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-7234.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-7234.exp
+[2018.06.10-07.37.38:129][378]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-7234.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-7234.suppressed.exp
+[2018.06.10-07.37.38:129][378]CompilerResultsLog: Total build time: 3.03 seconds (Local executor: 2.32 seconds)
+[2018.06.10-07.37.38:129][378]LogMainFrame: MainFrame: Module compiling took 3.211 seconds
+[2018.06.10-07.37.38:174][378]LogHotReload: Re-instancing ObjectField after hot-reload.
+[2018.06.10-07.37.38:295][378]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0007 seconds. Added 11 classes and 4 folders.
+[2018.06.10-07.37.38:297][378]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.10-07.37.38:404][378]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2464 classes and 564 folders.
+[2018.06.10-07.37.38:412][378]Display: HotReload took  3.5s.
+[2018.06.10-07.37.40:183][576]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.37.40:198][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.37.40:198][576]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:37:40 PM)
+[2018.06.10-07.37.40:198][576]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.37.40:221][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022903s)
+[2018.06.10-07.37.40:222][576]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.37.40:223][576]LogPlayLevel: PIE: World Init took: (0.001085s)
+[2018.06.10-07.37.40:223][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.024548s)
+[2018.06.10-07.37.40:242][576]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.37.40:250][576]LogInit: FAudioDevice initialized.
+[2018.06.10-07.37.40:288][576]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.37.40:291][576]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.37.40
+[2018.06.10-07.37.40:292][576]LogWorld: Bringing up level for play took: 0.002591
+[2018.06.10-07.37.40:293][576]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld 0.322
+[2018.06.10-07.38.32:663][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.40.05:491][109]Candidate modules for hot reload:
+[2018.06.10-07.40.05:491][109]  ForestSim
+[2018.06.10-07.40.05:492][109]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,3533 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.10-07.40.05:494][109]Warning: Starting HotReload took  0.0s.
+[2018.06.10-07.40.08:538][462]CompilerResultsLog: New page: Compilation - Jun 9, 2018, 9:40:08 PM
+[2018.06.10-07.40.08:538][462]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.10-07.40.08:538][462]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.06.10-07.40.08:539][462]CompilerResultsLog: ObjectField.cpp
+[2018.06.10-07.40.08:539][462]CompilerResultsLog: [2/3] Link UE4Editor-ForestSim-3533.dll
+[2018.06.10-07.40.08:539][462]CompilerResultsLog: [3/3] Link UE4Editor-ForestSim-3533.lib
+[2018.06.10-07.40.08:539][462]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-3533.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-3533.exp
+[2018.06.10-07.40.08:539][462]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-3533.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-3533.suppressed.exp
+[2018.06.10-07.40.08:539][462]CompilerResultsLog: Total build time: 2.88 seconds (Local executor: 2.22 seconds)
+[2018.06.10-07.40.08:539][462]LogMainFrame: MainFrame: Module compiling took 3.055 seconds
+[2018.06.10-07.40.08:580][462]LogHotReload: Re-instancing ObjectField after hot-reload.
+[2018.06.10-07.40.08:705][462]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0009 seconds. Added 11 classes and 4 folders.
+[2018.06.10-07.40.08:707][462]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.10-07.40.08:746][462]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2464 classes and 564 folders.
+[2018.06.10-07.40.08:747][462]Display: HotReload took  3.3s.
+[2018.06.10-07.40.11:285][766]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.40.11:303][766]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.40.11:303][766]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:40:11 PM)
+[2018.06.10-07.40.11:303][766]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.40.11:326][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022097s)
+[2018.06.10-07.40.11:327][766]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.40.11:327][766]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2018.06.10-07.40.11:327][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.023809s)
+[2018.06.10-07.40.11:347][766]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.40.11:355][766]LogInit: FAudioDevice initialized.
+[2018.06.10-07.40.11:391][766]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.40.11:394][766]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.40.11
+[2018.06.10-07.40.11:395][766]LogWorld: Bringing up level for play took: 0.002845
+[2018.06.10-07.40.11:396][766]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld -0.576
+[2018.06.10-07.40.49:778][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.41.01:474][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.41.01:591][732]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.41.01:605][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.41.01:605][732]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:41:01 PM)
+[2018.06.10-07.41.01:605][732]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.41.01:625][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020207s)
+[2018.06.10-07.41.01:626][732]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.41.01:626][732]LogPlayLevel: PIE: World Init took: (0.001130s)
+[2018.06.10-07.41.01:626][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.021871s)
+[2018.06.10-07.41.01:645][732]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.41.01:653][732]LogInit: FAudioDevice initialized.
+[2018.06.10-07.41.01:693][732]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.41.01:696][732]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.41.01
+[2018.06.10-07.41.01:696][732]LogWorld: Bringing up level for play took: 0.002559
+[2018.06.10-07.41.01:697][732]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld -0.275
+[2018.06.10-07.42.30:772][335]Candidate modules for hot reload:
+[2018.06.10-07.42.30:772][335]  ForestSim
+[2018.06.10-07.42.30:772][335]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,688 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.10-07.42.30:775][335]Warning: Starting HotReload took  0.0s.
+[2018.06.10-07.42.33:841][687]CompilerResultsLog: New page: Compilation - Jun 9, 2018, 9:42:33 PM
+[2018.06.10-07.42.33:842][687]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.10-07.42.33:842][687]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.06.10-07.42.33:842][687]CompilerResultsLog: ObjectField.cpp
+[2018.06.10-07.42.33:842][687]CompilerResultsLog: [2/3] Link UE4Editor-ForestSim-688.dll
+[2018.06.10-07.42.33:842][687]CompilerResultsLog: [3/3] Link UE4Editor-ForestSim-688.lib
+[2018.06.10-07.42.33:842][687]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-688.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-688.exp
+[2018.06.10-07.42.33:842][687]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-688.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-688.suppressed.exp
+[2018.06.10-07.42.33:842][687]CompilerResultsLog: Total build time: 2.91 seconds (Local executor: 2.23 seconds)
+[2018.06.10-07.42.33:842][687]LogMainFrame: MainFrame: Module compiling took 3.077 seconds
+[2018.06.10-07.42.33:884][687]LogHotReload: Re-instancing ObjectField after hot-reload.
+[2018.06.10-07.42.34:008][687]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0007 seconds. Added 11 classes and 4 folders.
+[2018.06.10-07.42.34:011][687]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.10-07.42.34:047][687]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2464 classes and 564 folders.
+[2018.06.10-07.42.34:048][687]Display: HotReload took  3.3s.
+[2018.06.10-07.42.36:004][921]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.42.36:018][921]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.42.36:018][921]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:42:36 PM)
+[2018.06.10-07.42.36:018][921]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.42.36:039][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020401s)
+[2018.06.10-07.42.36:040][921]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.42.36:040][921]LogPlayLevel: PIE: World Init took: (0.001395s)
+[2018.06.10-07.42.36:041][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.022394s)
+[2018.06.10-07.42.36:060][921]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.42.36:067][921]LogInit: FAudioDevice initialized.
+[2018.06.10-07.42.36:104][921]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.42.36:107][921]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.42.36
+[2018.06.10-07.42.36:107][921]LogWorld: Bringing up level for play took: 0.002659
+[2018.06.10-07.42.36:109][921]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld 0.137
+[2018.06.10-07.42.56:851][432]Candidate modules for hot reload:
+[2018.06.10-07.42.56:852][432]  ForestSim
+[2018.06.10-07.42.56:852][432]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,6702 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.10-07.42.56:855][432]Warning: Starting HotReload took  0.0s.
+[2018.06.10-07.42.59:918][787]CompilerResultsLog: New page: Compilation - Jun 9, 2018, 9:42:59 PM
+[2018.06.10-07.42.59:918][787]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.10-07.42.59:918][787]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.06.10-07.42.59:918][787]CompilerResultsLog: ObjectField.cpp
+[2018.06.10-07.42.59:918][787]CompilerResultsLog: [2/3] Link UE4Editor-ForestSim-6702.dll
+[2018.06.10-07.42.59:919][787]CompilerResultsLog: [3/3] Link UE4Editor-ForestSim-6702.lib
+[2018.06.10-07.42.59:919][787]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-6702.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-6702.exp
+[2018.06.10-07.42.59:919][787]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-6702.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-6702.suppressed.exp
+[2018.06.10-07.42.59:919][787]CompilerResultsLog: Total build time: 2.89 seconds (Local executor: 2.22 seconds)
+[2018.06.10-07.42.59:919][787]LogMainFrame: MainFrame: Module compiling took 3.074 seconds
+[2018.06.10-07.42.59:959][787]LogHotReload: Re-instancing ObjectField after hot-reload.
+[2018.06.10-07.43.00:079][787]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0007 seconds. Added 11 classes and 4 folders.
+[2018.06.10-07.43.00:081][787]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.10-07.43.00:119][787]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2464 classes and 564 folders.
+[2018.06.10-07.43.00:119][787]Display: HotReload took  3.3s.
+[2018.06.10-07.43.02:009][ 13]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.43.02:023][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.43.02:023][ 13]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:43:02 PM)
+[2018.06.10-07.43.02:023][ 13]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.43.02:044][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020243s)
+[2018.06.10-07.43.02:045][ 13]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.43.02:045][ 13]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2018.06.10-07.43.02:045][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.021534s)
+[2018.06.10-07.43.02:064][ 13]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.43.02:072][ 13]LogInit: FAudioDevice initialized.
+[2018.06.10-07.43.02:106][ 13]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.43.02:109][ 13]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.43.02
+[2018.06.10-07.43.02:109][ 13]LogWorld: Bringing up level for play took: 0.002689
+[2018.06.10-07.43.02:111][ 13]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld 0.139
+[2018.06.10-07.43.14:843][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.43.14:951][486]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.43.14:966][486]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.43.14:966][486]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:43:14 PM)
+[2018.06.10-07.43.14:967][486]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.43.14:987][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020565s)
+[2018.06.10-07.43.14:988][486]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.43.14:989][486]LogPlayLevel: PIE: World Init took: (0.000933s)
+[2018.06.10-07.43.14:989][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.022029s)
+[2018.06.10-07.43.15:009][486]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.43.15:016][486]LogInit: FAudioDevice initialized.
+[2018.06.10-07.43.15:055][486]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.43.15:058][486]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.43.15
+[2018.06.10-07.43.15:059][486]LogWorld: Bringing up level for play took: 0.002672
+[2018.06.10-07.43.15:060][486]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld 1.088
+[2018.06.10-07.43.24:030][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.43.37:311][460]Candidate modules for hot reload:
+[2018.06.10-07.43.37:311][460]  ForestSim
+[2018.06.10-07.43.37:311][460]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,4611 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.10-07.43.37:314][460]Warning: Starting HotReload took  0.0s.
+[2018.06.10-07.43.40:497][842]CompilerResultsLog: New page: Compilation - Jun 9, 2018, 9:43:40 PM
+[2018.06.10-07.43.40:497][842]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.10-07.43.40:497][842]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.06.10-07.43.40:497][842]CompilerResultsLog: ObjectField.cpp
+[2018.06.10-07.43.40:498][842]CompilerResultsLog: [2/3] Link UE4Editor-ForestSim-4611.dll
+[2018.06.10-07.43.40:498][842]CompilerResultsLog: [3/3] Link UE4Editor-ForestSim-4611.lib
+[2018.06.10-07.43.40:498][842]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-4611.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-4611.exp
+[2018.06.10-07.43.40:498][842]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-4611.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-4611.suppressed.exp
+[2018.06.10-07.43.40:498][842]CompilerResultsLog: Total build time: 3.02 seconds (Local executor: 2.32 seconds)
+[2018.06.10-07.43.40:498][842]LogMainFrame: MainFrame: Module compiling took 3.193 seconds
+[2018.06.10-07.43.40:537][842]LogHotReload: Re-instancing ObjectField after hot-reload.
+[2018.06.10-07.43.40:656][842]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0007 seconds. Added 11 classes and 4 folders.
+[2018.06.10-07.43.40:658][842]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.10-07.43.40:700][842]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2464 classes and 564 folders.
+[2018.06.10-07.43.40:700][842]Display: HotReload took  3.4s.
+[2018.06.10-07.43.42:107][ 10]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.43.42:122][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.43.42:122][ 10]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:43:42 PM)
+[2018.06.10-07.43.42:122][ 10]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.43.42:143][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020126s)
+[2018.06.10-07.43.42:144][ 10]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.43.42:144][ 10]LogPlayLevel: PIE: World Init took: (0.001238s)
+[2018.06.10-07.43.42:144][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.021895s)
+[2018.06.10-07.43.42:164][ 10]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.43.42:171][ 10]LogInit: FAudioDevice initialized.
+[2018.06.10-07.43.42:206][ 10]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.43.42:209][ 10]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.43.42
+[2018.06.10-07.43.42:210][ 10]LogWorld: Bringing up level for play took: 0.002907
+[2018.06.10-07.43.42:211][ 10]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld 0.239
+[2018.06.10-07.43.52:242][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.43.53:523][337]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.43.53:536][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.43.53:537][337]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:43:53 PM)
+[2018.06.10-07.43.53:537][337]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.43.53:557][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019806s)
+[2018.06.10-07.43.53:558][337]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.43.53:558][337]LogPlayLevel: PIE: World Init took: (0.000967s)
+[2018.06.10-07.43.53:558][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.021244s)
+[2018.06.10-07.43.53:577][337]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.43.53:585][337]LogInit: FAudioDevice initialized.
+[2018.06.10-07.43.53:620][337]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.43.53:623][337]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.43.53
+[2018.06.10-07.43.53:623][337]LogWorld: Bringing up level for play took: 0.002618
+[2018.06.10-07.43.53:625][337]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld -0.347
+[2018.06.10-07.44.24:352][620]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.10-07.44.24:355][620]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.10-07.44.24:543][620]LogSavePackage: Save=155.71ms
+[2018.06.10-07.44.24:543][620]LogSavePackage: Moving '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Saved/NewWorld5C7600A24C9CB1342BDB8286A08F03F4.tmp' to '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/A_TestLevels/NewWorld.umap'
+[2018.06.10-07.44.24:547][620]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/A_TestLevels/NewWorld.umap
+[2018.06.10-07.44.24:794][620]LogSavePackage: Save=212.30ms
+[2018.06.10-07.44.24:794][620]LogSavePackage: Moving '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Saved/NewWorld_BuiltDataB11C33724974B29281AEC583E71DF05A.tmp' to '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/A_TestLevels/NewWorld_BuiltData.uasset'
+[2018.06.10-07.44.24:796][620]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/A_TestLevels/NewWorld_BuiltData.uasset
+[2018.06.10-07.44.25:527][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.44.25:619][716]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.44.25:634][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.44.25:634][716]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:44:25 PM)
+[2018.06.10-07.44.25:635][716]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.44.25:658][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023659s)
+[2018.06.10-07.44.25:660][716]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.44.25:660][716]LogPlayLevel: PIE: World Init took: (0.001578s)
+[2018.06.10-07.44.25:660][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.025826s)
+[2018.06.10-07.44.25:681][716]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.44.25:688][716]LogInit: FAudioDevice initialized.
+[2018.06.10-07.44.25:724][716]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.44.25:728][716]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.44.25
+[2018.06.10-07.44.25:728][716]LogWorld: Bringing up level for play took: 0.002739
+[2018.06.10-07.44.25:729][716]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld -0.242
+[2018.06.10-07.44.32:478][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.45.04:543][327]Candidate modules for hot reload:
+[2018.06.10-07.45.04:543][327]  ForestSim
+[2018.06.10-07.45.04:543][327]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,5572 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.10-07.45.04:545][327]Warning: Starting HotReload took  0.0s.
+[2018.06.10-07.45.07:616][693]CompilerResultsLog: New page: Compilation - Jun 9, 2018, 9:45:07 PM
+[2018.06.10-07.45.07:616][693]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.10-07.45.07:617][693]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.06.10-07.45.07:617][693]CompilerResultsLog: ObjectField.cpp
+[2018.06.10-07.45.07:617][693]CompilerResultsLog: [2/3] Link UE4Editor-ForestSim-5572.dll
+[2018.06.10-07.45.07:617][693]CompilerResultsLog: [3/3] Link UE4Editor-ForestSim-5572.lib
+[2018.06.10-07.45.07:617][693]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-5572.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-5572.exp
+[2018.06.10-07.45.07:617][693]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-5572.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-5572.suppressed.exp
+[2018.06.10-07.45.07:617][693]CompilerResultsLog: Total build time: 2.91 seconds (Local executor: 2.22 seconds)
+[2018.06.10-07.45.07:617][693]LogMainFrame: MainFrame: Module compiling took 3.081 seconds
+[2018.06.10-07.45.07:659][693]LogHotReload: Re-instancing ObjectField after hot-reload.
+[2018.06.10-07.45.07:781][693]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0007 seconds. Added 11 classes and 4 folders.
+[2018.06.10-07.45.07:783][693]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.10-07.45.07:824][693]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2464 classes and 564 folders.
+[2018.06.10-07.45.07:825][693]Display: HotReload took  3.3s.
+[2018.06.10-07.45.09:888][940]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.45.09:902][940]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.45.09:902][940]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:45:09 PM)
+[2018.06.10-07.45.09:903][940]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.45.09:922][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019309s)
+[2018.06.10-07.45.09:923][940]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.45.09:923][940]LogPlayLevel: PIE: World Init took: (0.000963s)
+[2018.06.10-07.45.09:924][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.020879s)
+[2018.06.10-07.45.09:942][940]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.45.09:950][940]LogInit: FAudioDevice initialized.
+[2018.06.10-07.45.09:983][940]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.45.09:987][940]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.45.09
+[2018.06.10-07.45.09:987][940]LogWorld: Bringing up level for play took: 0.002534
+[2018.06.10-07.45.09:988][940]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld 0.016
+[2018.06.10-07.45.28:665][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.45.29:465][960]Candidate modules for hot reload:
+[2018.06.10-07.45.29:465][960]  ForestSim
+[2018.06.10-07.45.29:465][960]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,8154 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.10-07.45.29:467][960]Warning: Starting HotReload took  0.0s.
+[2018.06.10-07.45.32:557][331]CompilerResultsLog: New page: Compilation - Jun 9, 2018, 9:45:32 PM
+[2018.06.10-07.45.32:557][331]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.10-07.45.32:557][331]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.06.10-07.45.32:557][331]CompilerResultsLog: ObjectField.cpp
+[2018.06.10-07.45.32:557][331]CompilerResultsLog: [2/3] Link UE4Editor-ForestSim-8154.dll
+[2018.06.10-07.45.32:557][331]CompilerResultsLog: [3/3] Link UE4Editor-ForestSim-8154.lib
+[2018.06.10-07.45.32:557][331]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-8154.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-8154.exp
+[2018.06.10-07.45.32:558][331]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-8154.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-8154.suppressed.exp
+[2018.06.10-07.45.32:558][331]CompilerResultsLog: Total build time: 2.93 seconds (Local executor: 2.22 seconds)
+[2018.06.10-07.45.32:558][331]LogMainFrame: MainFrame: Module compiling took 3.100 seconds
+[2018.06.10-07.45.32:604][331]LogHotReload: Re-instancing ObjectField after hot-reload.
+[2018.06.10-07.45.32:722][331]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0007 seconds. Added 11 classes and 4 folders.
+[2018.06.10-07.45.32:725][331]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.10-07.45.32:763][331]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2464 classes and 564 folders.
+[2018.06.10-07.45.32:763][331]Display: HotReload took  3.3s.
+[2018.06.10-07.45.35:471][655]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.45.35:485][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.45.35:485][655]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:45:35 PM)
+[2018.06.10-07.45.35:485][655]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.45.35:505][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019498s)
+[2018.06.10-07.45.35:506][655]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.45.35:506][655]LogPlayLevel: PIE: World Init took: (0.001209s)
+[2018.06.10-07.45.35:506][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.021291s)
+[2018.06.10-07.45.35:524][655]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.45.35:532][655]LogInit: FAudioDevice initialized.
+[2018.06.10-07.45.35:567][655]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.45.35:570][655]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.45.35
+[2018.06.10-07.45.35:571][655]LogWorld: Bringing up level for play took: 0.002601
+[2018.06.10-07.45.35:572][655]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld -0.4
+[2018.06.10-07.45.59:584][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.46.00:771][402]Candidate modules for hot reload:
+[2018.06.10-07.46.00:771][402]  ForestSim
+[2018.06.10-07.46.00:771][402]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,8649 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.10-07.46.00:773][402]Warning: Starting HotReload took  0.0s.
+[2018.06.10-07.46.03:881][771]CompilerResultsLog: New page: Compilation - Jun 9, 2018, 9:46:03 PM
+[2018.06.10-07.46.03:881][771]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.10-07.46.03:882][771]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.06.10-07.46.03:882][771]CompilerResultsLog: ObjectField.cpp
+[2018.06.10-07.46.03:882][771]CompilerResultsLog: [2/3] Link UE4Editor-ForestSim-8649.dll
+[2018.06.10-07.46.03:882][771]CompilerResultsLog: [3/3] Link UE4Editor-ForestSim-8649.lib
+[2018.06.10-07.46.03:882][771]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-8649.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-8649.exp
+[2018.06.10-07.46.03:882][771]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-8649.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-8649.suppressed.exp
+[2018.06.10-07.46.03:882][771]CompilerResultsLog: Total build time: 2.94 seconds (Local executor: 2.22 seconds)
+[2018.06.10-07.46.03:882][771]LogMainFrame: MainFrame: Module compiling took 3.118 seconds
+[2018.06.10-07.46.03:924][771]LogHotReload: Re-instancing ObjectField after hot-reload.
+[2018.06.10-07.46.04:050][771]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0007 seconds. Added 11 classes and 4 folders.
+[2018.06.10-07.46.04:052][771]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.10-07.46.04:090][771]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2464 classes and 564 folders.
+[2018.06.10-07.46.04:090][771]Display: HotReload took  3.3s.
+[2018.06.10-07.46.07:499][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.46.07:599][166]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.46.07:613][166]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.46.07:613][166]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:46:07 PM)
+[2018.06.10-07.46.07:613][166]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.46.07:636][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022568s)
+[2018.06.10-07.46.07:637][166]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.46.07:638][166]LogPlayLevel: PIE: World Init took: (0.001236s)
+[2018.06.10-07.46.07:638][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.024362s)
+[2018.06.10-07.46.07:657][166]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.46.07:664][166]LogInit: FAudioDevice initialized.
+[2018.06.10-07.46.07:702][166]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.46.07:705][166]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.46.07
+[2018.06.10-07.46.07:706][166]LogWorld: Bringing up level for play took: 0.002614
+[2018.06.10-07.46.07:707][166]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld -0.265
+[2018.06.10-07.47.24:234][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.47.24:931][451]Candidate modules for hot reload:
+[2018.06.10-07.47.24:932][451]  ForestSim
+[2018.06.10-07.47.24:932][451]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,2434 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.10-07.47.24:934][451]Warning: Starting HotReload took  0.0s.
+[2018.06.10-07.47.33:204][441]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.47.33:219][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.47.33:219][441]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:47:33 PM)
+[2018.06.10-07.47.33:219][441]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.47.33:242][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022029s)
+[2018.06.10-07.47.33:242][441]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.47.33:243][441]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2018.06.10-07.47.33:243][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.023390s)
+[2018.06.10-07.47.33:262][441]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.47.33:270][441]LogInit: FAudioDevice initialized.
+[2018.06.10-07.47.33:308][441]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.47.33:311][441]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.47.33
+[2018.06.10-07.47.33:311][441]LogWorld: Bringing up level for play took: 0.002870
+[2018.06.10-07.47.33:312][441]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld -0.659
+[2018.06.10-07.47.37:287][901]CompilerResultsLog: New page: Compilation - Jun 9, 2018, 9:47:37 PM
+[2018.06.10-07.47.37:287][901]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.10-07.47.37:287][901]CompilerResultsLog: Parsing headers for ForestSimEditor
+[2018.06.10-07.47.37:287][901]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\ForestSim.uproject" "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\ForestSimEditor\Development\ForestSimEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.06.10-07.47.37:287][901]CompilerResultsLog: Reflection code generated for ForestSimEditor in 8.8386697 seconds
+[2018.06.10-07.47.37:287][901]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.06.10-07.47.37:287][901]CompilerResultsLog: ObjectField.gen.cpp
+[2018.06.10-07.47.37:288][901]CompilerResultsLog: ObjectField.cpp
+[2018.06.10-07.47.37:288][901]CompilerResultsLog: ForestSim.init.gen.cpp
+[2018.06.10-07.47.37:288][901]CompilerResultsLog: [4/5] Link UE4Editor-ForestSim-2434.dll
+[2018.06.10-07.47.37:288][901]CompilerResultsLog: [5/5] Link UE4Editor-ForestSim-2434.lib
+[2018.06.10-07.47.37:288][901]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-2434.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-2434.exp
+[2018.06.10-07.47.37:288][901]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-2434.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-2434.suppressed.exp
+[2018.06.10-07.47.37:288][901]CompilerResultsLog: Total build time: 12.18 seconds (Local executor: 2.53 seconds)
+[2018.06.10-07.47.37:288][901]LogMainFrame: MainFrame: Module compiling took 12.363 seconds
+[2018.06.10-07.47.37:325][901]LogClass: Could not find existing class ObjectField in package /Script/ForestSim for HotReload, assuming new class
+[2018.06.10-07.47.37:336][901]LogHotReload: Re-instancing ObjectField after hot-reload.
+[2018.06.10-07.47.37:460][901]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0007 seconds. Added 11 classes and 4 folders.
+[2018.06.10-07.47.37:462][901]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.10-07.47.37:499][901]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2464 classes and 564 folders.
+[2018.06.10-07.47.37:499][901]Display: HotReload took 12.6s.
+[2018.06.10-07.47.40:082][210]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.47.40:095][210]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.47.40:095][210]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:47:40 PM)
+[2018.06.10-07.47.40:095][210]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.47.40:115][210]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019641s)
+[2018.06.10-07.47.40:116][210]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.47.40:117][210]LogPlayLevel: PIE: World Init took: (0.001272s)
+[2018.06.10-07.47.40:117][210]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.021449s)
+[2018.06.10-07.47.40:135][210]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.47.40:143][210]LogInit: FAudioDevice initialized.
+[2018.06.10-07.47.40:179][210]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.47.40:182][210]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.47.40
+[2018.06.10-07.47.40:182][210]LogWorld: Bringing up level for play took: 0.002810
+[2018.06.10-07.47.40:183][210]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld 0.212
+[2018.06.10-07.47.51:740][396]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.47.51:753][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.47.51:754][396]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:47:51 PM)
+[2018.06.10-07.47.51:754][396]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.47.51:773][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019435s)
+[2018.06.10-07.47.51:774][396]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.47.51:775][396]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2018.06.10-07.47.51:775][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.021001s)
+[2018.06.10-07.47.51:793][396]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.47.51:801][396]LogInit: FAudioDevice initialized.
+[2018.06.10-07.47.51:837][396]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.47.51:840][396]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.47.51
+[2018.06.10-07.47.51:841][396]LogWorld: Bringing up level for play took: 0.002842
+[2018.06.10-07.47.51:842][396]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld -0.13
+[2018.06.10-07.47.57:249][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.47.57:333][993]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.47.57:346][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.47.57:347][993]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:47:57 PM)
+[2018.06.10-07.47.57:347][993]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.47.57:366][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019141s)
+[2018.06.10-07.47.57:367][993]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.47.57:368][993]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2018.06.10-07.47.57:368][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.020734s)
+[2018.06.10-07.47.57:387][993]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.47.57:394][993]LogInit: FAudioDevice initialized.
+[2018.06.10-07.47.57:432][993]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.47.57:435][993]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.47.57
+[2018.06.10-07.47.57:436][993]LogWorld: Bringing up level for play took: 0.002447
+[2018.06.10-07.47.57:437][993]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld -0.535
+[2018.06.10-07.48.11:973][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.48.21:018][390]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.48.21:032][390]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.48.21:032][390]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:48:21 PM)
+[2018.06.10-07.48.21:033][390]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.48.21:055][390]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022550s)
+[2018.06.10-07.48.21:056][390]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.48.21:057][390]LogPlayLevel: PIE: World Init took: (0.001129s)
+[2018.06.10-07.48.21:057][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.024137s)
+[2018.06.10-07.48.21:077][390]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.48.21:085][390]LogInit: FAudioDevice initialized.
+[2018.06.10-07.48.21:123][390]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.48.21:126][390]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.48.21
+[2018.06.10-07.48.21:126][390]LogWorld: Bringing up level for play took: 0.002441
+[2018.06.10-07.48.21:127][390]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld -0.845
+[2018.06.10-07.48.27:031][ 13]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.48.27:045][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.48.27:045][ 13]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:48:27 PM)
+[2018.06.10-07.48.27:045][ 13]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.48.27:064][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019038s)
+[2018.06.10-07.48.27:065][ 13]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.48.27:065][ 13]LogPlayLevel: PIE: World Init took: (0.001025s)
+[2018.06.10-07.48.27:065][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.020720s)
+[2018.06.10-07.48.27:084][ 13]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.48.27:092][ 13]LogInit: FAudioDevice initialized.
+[2018.06.10-07.48.27:130][ 13]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.48.27:133][ 13]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.48.27
+[2018.06.10-07.48.27:133][ 13]LogWorld: Bringing up level for play took: 0.002564
+[2018.06.10-07.48.27:135][ 13]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld -0.837
+[2018.06.10-07.48.36:405][ 56]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.48.36:420][ 56]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.48.36:420][ 56]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:48:36 PM)
+[2018.06.10-07.48.36:420][ 56]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.48.36:441][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020542s)
+[2018.06.10-07.48.36:442][ 56]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.48.36:443][ 56]LogPlayLevel: PIE: World Init took: (0.001276s)
+[2018.06.10-07.48.36:443][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.022344s)
+[2018.06.10-07.48.36:462][ 56]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.48.36:469][ 56]LogInit: FAudioDevice initialized.
+[2018.06.10-07.48.36:508][ 56]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.48.36:511][ 56]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.48.36
+[2018.06.10-07.48.36:512][ 56]LogWorld: Bringing up level for play took: 0.002749
+[2018.06.10-07.48.36:513][ 56]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld 0.542
+[2018.06.10-07.48.42:810][686]Cmd: SELECT NONE
+[2018.06.10-07.49.04:901][286]Candidate modules for hot reload:
+[2018.06.10-07.49.04:901][286]  ForestSim
+[2018.06.10-07.49.04:902][286]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,8394 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.10-07.49.04:904][286]Warning: Starting HotReload took  0.0s.
+[2018.06.10-07.49.08:750][691]CompilerResultsLog: New page: Compilation - Jun 9, 2018, 9:49:08 PM
+[2018.06.10-07.49.08:750][691]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.10-07.49.08:750][691]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.06.10-07.49.08:750][691]CompilerResultsLog: ObjectField.cpp
+[2018.06.10-07.49.08:750][691]CompilerResultsLog: [2/3] Link UE4Editor-ForestSim-8394.dll
+[2018.06.10-07.49.08:750][691]CompilerResultsLog: [3/3] Link UE4Editor-ForestSim-8394.lib
+[2018.06.10-07.49.08:750][691]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-8394.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-8394.exp
+[2018.06.10-07.49.08:751][691]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-8394.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-8394.suppressed.exp
+[2018.06.10-07.49.08:751][691]CompilerResultsLog: Total build time: 3.68 seconds (Local executor: 2.93 seconds)
+[2018.06.10-07.49.08:751][691]LogMainFrame: MainFrame: Module compiling took 3.855 seconds
+[2018.06.10-07.49.08:801][691]LogHotReload: Re-instancing ObjectField after hot-reload.
+[2018.06.10-07.49.09:169][691]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0008 seconds. Added 11 classes and 4 folders.
+[2018.06.10-07.49.09:172][691]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.10-07.49.09:212][691]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2464 classes and 564 folders.
+[2018.06.10-07.49.09:212][691]Display: HotReload took  4.3s.
+[2018.06.10-07.49.10:196][789]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.49.10:210][789]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.49.10:211][789]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:49:10 PM)
+[2018.06.10-07.49.10:211][789]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.49.10:231][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020386s)
+[2018.06.10-07.49.10:232][789]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.49.10:233][789]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2018.06.10-07.49.10:233][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.021914s)
+[2018.06.10-07.49.10:251][789]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.49.10:259][789]LogInit: FAudioDevice initialized.
+[2018.06.10-07.49.10:294][789]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.49.10:298][789]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.49.10
+[2018.06.10-07.49.10:298][789]LogWorld: Bringing up level for play took: 0.002451
+[2018.06.10-07.49.10:299][789]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld 0.328
+[2018.06.10-07.49.22:832][174]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.10-07.49.35:265][590]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.49.35:278][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.49.35:279][590]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:49:35 PM)
+[2018.06.10-07.49.35:279][590]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.49.35:299][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020127s)
+[2018.06.10-07.49.35:300][590]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.49.35:300][590]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2018.06.10-07.49.35:300][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.021472s)
+[2018.06.10-07.49.35:319][590]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.49.35:327][590]LogInit: FAudioDevice initialized.
+[2018.06.10-07.49.35:368][590]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.49.35:372][590]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.49.35
+[2018.06.10-07.49.35:372][590]LogWorld: Bringing up level for play took: 0.003543
+[2018.06.10-07.49.35:373][590]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld -0.598
+[2018.06.10-07.49.53:563][689]Candidate modules for hot reload:
+[2018.06.10-07.49.53:563][689]  ForestSim
+[2018.06.10-07.49.53:563][689]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,4067 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.10-07.49.53:565][689]Warning: Starting HotReload took  0.0s.
+[2018.06.10-07.49.56:740][ 62]CompilerResultsLog: New page: Compilation - Jun 9, 2018, 9:49:56 PM
+[2018.06.10-07.49.56:740][ 62]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.10-07.49.56:740][ 62]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.06.10-07.49.56:740][ 62]CompilerResultsLog: ObjectField.cpp
+[2018.06.10-07.49.56:740][ 62]CompilerResultsLog: [2/3] Link UE4Editor-ForestSim-4067.dll
+[2018.06.10-07.49.56:741][ 62]CompilerResultsLog: [3/3] Link UE4Editor-ForestSim-4067.lib
+[2018.06.10-07.49.56:741][ 62]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-4067.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-4067.exp
+[2018.06.10-07.49.56:741][ 62]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-4067.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-4067.suppressed.exp
+[2018.06.10-07.49.56:741][ 62]CompilerResultsLog: Total build time: 3.01 seconds (Local executor: 2.32 seconds)
+[2018.06.10-07.49.56:741][ 62]LogMainFrame: MainFrame: Module compiling took 3.186 seconds
+[2018.06.10-07.49.56:781][ 62]LogHotReload: Re-instancing ObjectField after hot-reload.
+[2018.06.10-07.49.56:900][ 62]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0007 seconds. Added 11 classes and 4 folders.
+[2018.06.10-07.49.56:902][ 62]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.10-07.49.56:941][ 62]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2464 classes and 564 folders.
+[2018.06.10-07.49.56:942][ 62]Display: HotReload took  3.4s.
+[2018.06.10-07.49.57:939][181]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.49.57:953][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.49.57:954][181]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:49:57 PM)
+[2018.06.10-07.49.57:954][181]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.49.57:976][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022243s)
+[2018.06.10-07.49.57:977][181]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.49.57:978][181]LogPlayLevel: PIE: World Init took: (0.001005s)
+[2018.06.10-07.49.57:978][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.023770s)
+[2018.06.10-07.49.57:996][181]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.49.58:003][181]LogInit: FAudioDevice initialized.
+[2018.06.10-07.49.58:041][181]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.49.58:044][181]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.49.58
+[2018.06.10-07.49.58:044][181]LogWorld: Bringing up level for play took: 0.002466
+[2018.06.10-07.49.58:045][181]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld 0.074
+[2018.06.10-07.50.09:857][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.50.13:561][954]Cmd: TRANSACTION UNDO
+[2018.06.10-07.50.13:561][954]LogEditorTransaction: Undo Move Actors
+[2018.06.10-07.50.18:043][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.50.18:133][469]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.50.18:148][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.50.18:148][469]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:50:18 PM)
+[2018.06.10-07.50.18:148][469]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.50.18:168][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019787s)
+[2018.06.10-07.50.18:169][469]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.50.18:170][469]LogPlayLevel: PIE: World Init took: (0.000983s)
+[2018.06.10-07.50.18:170][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.021296s)
+[2018.06.10-07.50.18:191][469]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.50.18:199][469]LogInit: FAudioDevice initialized.
+[2018.06.10-07.50.18:233][469]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.50.18:237][469]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.50.18
+[2018.06.10-07.50.18:237][469]LogWorld: Bringing up level for play took: 0.002710
+[2018.06.10-07.50.18:239][469]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld 0.267
+[2018.06.10-07.50.32:023][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.50.32:923][ 82]LogSavePackage: Save=146.58ms
+[2018.06.10-07.50.32:924][ 82]LogSavePackage: Moving '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Saved/NewWorld3BFF7B3942BEB0BEA9BEEB863FDAB8C5.tmp' to '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/A_TestLevels/NewWorld.umap'
+[2018.06.10-07.50.32:927][ 82]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/A_TestLevels/NewWorld.umap
+[2018.06.10-07.50.33:116][ 82]LogSavePackage: Save=154.63ms
+[2018.06.10-07.50.33:117][ 82]LogSavePackage: Moving '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Saved/NewWorld_BuiltDataFC9871E84173FF7E736B94836CF6BFAD.tmp' to '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/A_TestLevels/NewWorld_BuiltData.uasset'
+[2018.06.10-07.50.33:119][ 82]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/A_TestLevels/NewWorld_BuiltData.uasset
+[2018.06.10-07.51.43:277][578]Candidate modules for hot reload:
+[2018.06.10-07.51.43:277][578]  ForestSim
+[2018.06.10-07.51.43:277][578]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,2261 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.10-07.51.43:279][578]Warning: Starting HotReload took  0.0s.
+[2018.06.10-07.51.46:347][929]CompilerResultsLog: New page: Compilation - Jun 9, 2018, 9:51:46 PM
+[2018.06.10-07.51.46:347][929]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.10-07.51.46:348][929]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.06.10-07.51.46:348][929]CompilerResultsLog: ObjectField.cpp
+[2018.06.10-07.51.46:348][929]CompilerResultsLog: [2/3] Link UE4Editor-ForestSim-2261.dll
+[2018.06.10-07.51.46:348][929]CompilerResultsLog: [3/3] Link UE4Editor-ForestSim-2261.lib
+[2018.06.10-07.51.46:348][929]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-2261.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-2261.exp
+[2018.06.10-07.51.46:348][929]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-2261.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-2261.suppressed.exp
+[2018.06.10-07.51.46:348][929]CompilerResultsLog: Total build time: 2.89 seconds (Local executor: 2.22 seconds)
+[2018.06.10-07.51.46:348][929]LogMainFrame: MainFrame: Module compiling took 3.078 seconds
+[2018.06.10-07.51.46:388][929]LogHotReload: Re-instancing ObjectField after hot-reload.
+[2018.06.10-07.51.46:509][929]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0007 seconds. Added 11 classes and 4 folders.
+[2018.06.10-07.51.46:511][929]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.10-07.51.46:550][929]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2464 classes and 564 folders.
+[2018.06.10-07.51.46:550][929]Display: HotReload took  3.3s.
+[2018.06.10-07.51.51:564][530]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.51.51:578][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.51.51:578][530]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:51:51 PM)
+[2018.06.10-07.51.51:578][530]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.51.51:600][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021460s)
+[2018.06.10-07.51.51:601][530]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.51.51:601][530]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2018.06.10-07.51.51:601][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.023006s)
+[2018.06.10-07.51.51:620][530]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.51.51:627][530]LogInit: FAudioDevice initialized.
+[2018.06.10-07.51.51:662][530]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.51.51:666][530]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.51.51
+[2018.06.10-07.51.51:667][530]LogWorld: Bringing up level for play took: 0.003052
+[2018.06.10-07.51.51:668][530]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld -0.304
+[2018.06.10-07.51.56:785][113]LogSavePackage: Save=150.69ms
+[2018.06.10-07.51.56:785][113]LogSavePackage: Moving '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Saved/NewWorld4EDDC0AC4A483274B2290EB837D6FDA0.tmp' to '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/A_TestLevels/NewWorld.umap'
+[2018.06.10-07.51.56:787][113]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/A_TestLevels/NewWorld.umap
+[2018.06.10-07.51.56:969][113]LogSavePackage: Save=154.62ms
+[2018.06.10-07.51.56:970][113]LogSavePackage: Moving '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Saved/NewWorld_BuiltData98855AAE474AB57BB21BE795AA579C0C.tmp' to '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/A_TestLevels/NewWorld_BuiltData.uasset'
+[2018.06.10-07.51.56:972][113]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/A_TestLevels/NewWorld_BuiltData.uasset

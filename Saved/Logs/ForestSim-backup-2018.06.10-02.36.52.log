@@ -1,0 +1,763 @@
+﻿Log file open, 06/10/18 02:26:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ForestSim
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-456088415) SRandInit(-456088415).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.353098
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.094s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Binaries/Win64/UE4Editor-ForestSim.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-5B7CVCV (167.96.135.116:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.10-07.26.49:137][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.10-07.26.49:137][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.10-07.26.49:148][  0]LogInit: Computer: DESKTOP-5B7CVCV
+[2018.06.10-07.26.49:149][  0]LogInit: User: EvanFridge
+[2018.06.10-07.26.49:149][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.10-07.26.49:149][  0]LogInit: High frequency timer resolution =3.515621 MHz
+[2018.06.10-07.26.49:149][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.06.10-07.26.49:149][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.10-07.26.49:149][  0]LogMemory: Process Physical Memory: 275.50 MB used, 275.50 MB peak
+[2018.06.10-07.26.49:149][  0]LogMemory: Process Virtual Memory: 265.21 MB used, 265.21 MB peak
+[2018.06.10-07.26.49:149][  0]LogMemory: Physical Memory: 6752.71 MB used,  9595.98 MB free, 16348.69 MB total
+[2018.06.10-07.26.49:149][  0]LogMemory: Virtual Memory: 4789.74 MB used,  9595.98 MB free, 134217728.00 MB total
+[2018.06.10-07.26.49:251][  0]LogInit: Using OS detected language (en-US).
+[2018.06.10-07.26.49:251][  0]LogInit: Using OS detected locale (en-US).
+[2018.06.10-07.26.49:253][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.06.10-07.26.49:587][  0]LogStreaming: Display: Took  0.335s to EndInitTextLocalization.
+[2018.06.10-07.26.49:588][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.10-07.26.49:637][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.10-07.26.49:637][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.10-07.26.49:784][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.10-07.26.49:856][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.06.10-07.26.49:856][  0]LogD3D11RHI:       8088/0/8174 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.06.10-07.26.49:861][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.10-07.26.49:861][  0]LogD3D11RHI:       0/0/8174 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.10-07.26.49:861][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.10-07.26.49:865][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.10-07.26.49:866][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.10-07.26.49:866][  0]LogWindows: EnumDisplayDevices:
+[2018.06.10-07.26.49:866][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.06.10-07.26.49:866][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.06.10-07.26.49:866][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.06.10-07.26.49:866][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.06.10-07.26.49:866][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.10-07.26.49:867][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.06.10-07.26.49:867][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.10-07.26.49:867][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.10-07.26.49:867][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.06.10-07.26.49:898][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.10-07.26.49:898][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.10-07.26.49:898][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.10-07.26.49:914][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.06.10-07.26.50:010][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Intermediate/Shaders/WorkingDirectory/7384/).
+[2018.06.10-07.26.50:011][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Evan Fridge/AppData/Local/Temp/UnrealShaderWorkingDir/390AD24E47B04BBB714776A8C1D8A4AF/'.
+[2018.06.10-07.26.50:205][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.10-07.26.50:223][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.10-07.26.50:241][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.10-07.26.50:258][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.10-07.26.50:275][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.10-07.26.50:292][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.10-07.26.50:309][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.10-07.26.50:327][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.10-07.26.50:338][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.10-07.26.50:351][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.10-07.26.50:365][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.10-07.26.50:379][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.10-07.26.50:392][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.10-07.26.50:406][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.10-07.26.50:420][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.10-07.26.50:448][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.10-07.26.50:448][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.10-07.26.50:462][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.10-07.26.50:467][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.10-07.26.50:515][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.10-07.26.50:527][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.10-07.26.50:540][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.10-07.26.50:552][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.10-07.26.50:566][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.10-07.26.50:580][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.10-07.26.50:580][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.10-07.26.50:788][  0]LogXGEController: Cleaning working directory: C:/Users/Evan Fridge/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.06.10-07.26.50:788][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.10-07.26.50:788][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.10-07.26.50:788][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.10-07.26.51:323][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.10-07.26.51:393][  0]LogDerivedDataCache: Loaded boot cache 0.07s 96MB C:/Users/Evan Fridge/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.10-07.26.51:394][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Evan Fridge/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.10-07.26.51:394][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.10-07.26.51:394][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.10-07.26.51:394][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.10-07.26.51:394][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.10-07.26.51:407][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.10-07.26.51:419][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Evan Fridge/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.10-07.26.51:419][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.06.10-07.26.51:419][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.06.10-07.26.51:428][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.10-07.26.51:429][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.10-07.26.51:430][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.10-07.26.51:430][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.10-07.26.51:528][  0]LogAssetRegistry: FAssetRegistry took 0.0278 seconds to start up
+[2018.06.10-07.26.51:772][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.10-07.26.51:927][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.10-07.26.51:936][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.10-07.26.51:936][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.10-07.26.51:936][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.10-07.26.51:936][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.10-07.26.51:936][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.10-07.26.51:963][  0]LogNetVersion: ForestSim , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2660769105)
+[2018.06.10-07.26.52:318][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.068894 seconds
+[2018.06.10-07.26.52:323][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.06.10-07.26.52:323][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.06.10-07.26.52:323][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.10-07.26.53:937][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.10-07.26.53:968][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.10-07.26.54:255][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002eb258789c0, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.10-07.26.54:262][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002eb258789c0, Size=64
+[2018.06.10-07.26.54:263][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002eb259b6e00, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.10-07.26.54:269][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002eb2553a840, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.10-07.26.54:329][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.912038ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.06.10-07.26.54:702][  0]SourceControl: Source control is disabled
+[2018.06.10-07.26.54:702][  0]SourceControl: Source control is disabled
+[2018.06.10-07.26.54:724][  0]SourceControl: Source control is disabled
+[2018.06.10-07.26.54:745][  0]SourceControl: Source control is disabled
+[2018.06.10-07.26.55:285][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.10-07.26.55:482][  0]LogOcInput: OculusInput pre-init called
+[2018.06.10-07.26.55:601][  0]LogEngine: Initializing Engine...
+[2018.06.10-07.26.55:602][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.10-07.26.55:603][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.10-07.26.55:604][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.10-07.26.55:801][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.10-07.26.55:866][  0]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.26.55:907][  0]LogInit: FAudioDevice initialized.
+[2018.06.10-07.26.55:999][  0]LogDerivedDataCache: Saved boot cache 0.09s 96MB C:/Users/Evan Fridge/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.10-07.26.56:016][  0]LogInit: Texture streaming: Enabled
+[2018.06.10-07.26.56:053][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.10-07.26.56:054][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Debugger, SessionId={2CADCAEB-4489-CFB0-18FB-2E925494059E}
+[2018.06.10-07.26.56:054][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Debugger, SessionId={B9173F4C-4A39-BEC2-ABBF-E680AC53215B}
+[2018.06.10-07.26.56:069][  0]LogInit: Transaction tracking system initialized
+[2018.06.10-07.26.56:120][  0]BlueprintLog: New page: Editor Load
+[2018.06.10-07.26.56:335][  0]LocalizationService: Localization service is disabled
+[2018.06.10-07.26.56:491][  0]LogConsoleResponse: Display: 
+[2018.06.10-07.26.56:627][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.10-07.26.56:628][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.10-07.26.56:628][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.10-07.26.56:628][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.10-07.26.56:628][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.10-07.26.57:046][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/' took 0.03s
+[2018.06.10-07.26.57:047][  0]SourceControl: Source control is disabled
+[2018.06.10-07.26.57:047][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/A_TestLevels/NewWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.10-07.26.57:047][  0]LightingResults: New page: Lighting Build
+[2018.06.10-07.26.57:050][  0]MapCheck: New page: Map Check
+[2018.06.10-07.26.57:051][  0]LightingResults: New page: Lighting Build
+[2018.06.10-07.26.57:060][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002eb259b6e00, Size=64
+[2018.06.10-07.26.57:223][  0]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.26.57:255][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.10-07.26.57:266][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.10-07.26.57:310][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 44.077ms to complete.
+[2018.06.10-07.26.57:310][  0]LogFileHelpers: Loading map 'NewWorld' took 0.263
+[2018.06.10-07.26.57:467][  0]LogCollectionManager: Loaded 0 collections in 0.002037 seconds
+[2018.06.10-07.26.57:516][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Saved/Collections/' took 0.01s
+[2018.06.10-07.26.57:516][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/Developers/EvanFridge/Collections/' took 0.01s
+[2018.06.10-07.26.57:516][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/Collections/' took 0.01s
+[2018.06.10-07.26.57:516][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.06.10-07.26.57:524][  0]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2464 classes and 564 folders.
+[2018.06.10-07.26.57:532][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.06.10-07.26.57:560][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.06.10-07.26.57:574][  0]LogSlate: Took 0.000272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.10-07.26.57:579][  0]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.10-07.26.57:581][  0]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.10-07.26.57:657][  0]LogRenderer: Reallocating scene render targets to support 1208x672 Format 10 NumSamples 1 (Frame:1).
+[2018.06.10-07.26.57:687][  0]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.10-07.26.57:753][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.06.10-07.26.57:753][  0]LogLoad: (Engine Initialization) Total time: 11.23 seconds
+[2018.06.10-07.26.57:753][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.10-07.26.57:762][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.10-07.26.57:784][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.10-07.26.57:826][  1]LogAssetRegistry: Asset discovery search completed in 6.3221 seconds
+[2018.06.10-07.26.57:829][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.06.10-07.26.57:829][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000212 seconds (updated 0 objects)
+[2018.06.10-07.27.00:781][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.27.00:929][362]LogEditor: Attempting to add actor of class 'ObjectField' to level at -2020.00,-4300.00,1120.00
+[2018.06.10-07.27.01:686][422]LogEditor: Attempting to add actor of class 'ObjectField' to level at 1940.00,-3000.00,180.00
+[2018.06.10-07.27.02:961][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.27.03:061][545]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.27.03:074][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.27.03:075][545]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:27:03 PM)
+[2018.06.10-07.27.03:075][545]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.27.03:120][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044491s)
+[2018.06.10-07.27.03:121][545]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.27.03:122][545]LogPlayLevel: PIE: World Init took: (0.001141s)
+[2018.06.10-07.27.03:122][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.046535s)
+[2018.06.10-07.27.03:142][545]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.27.03:149][545]LogInit: FAudioDevice initialized.
+[2018.06.10-07.27.03:197][545]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.27.03:201][545]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.27.03
+[2018.06.10-07.27.03:202][545]LogWorld: Bringing up level for play took: 0.002820
+[2018.06.10-07.27.03:205][545]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2018.06.10-07.27.03:207][545]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld -0.765
+[2018.06.10-07.27.14:536][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.27.19:297][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.27.19:397][315]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.27.19:412][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.27.19:412][315]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:27:19 PM)
+[2018.06.10-07.27.19:412][315]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.27.19:435][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022444s)
+[2018.06.10-07.27.19:436][315]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.27.19:436][315]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2018.06.10-07.27.19:436][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.024131s)
+[2018.06.10-07.27.19:456][315]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.27.19:464][315]LogInit: FAudioDevice initialized.
+[2018.06.10-07.27.19:503][315]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.27.19:506][315]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.27.19
+[2018.06.10-07.27.19:506][315]LogWorld: Bringing up level for play took: 0.002535
+[2018.06.10-07.27.19:507][315]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld -0.465
+[2018.06.10-07.27.42:971][ 12]LogEditorViewport: Clicking on Actor (LMB): ObjectField (ObjectField1)
+[2018.06.10-07.27.43:188][ 12]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Nerved Mesh)
+[2018.06.10-07.27.57:743][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.28.00:409][793]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.10-07.28.00:597][793]LogSavePackage: Save=153.81ms
+[2018.06.10-07.28.00:597][793]LogSavePackage: Moving '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Saved/NewWorldA4522FB44BC566D3377C6194BD1B69C9.tmp' to '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/A_TestLevels/NewWorld.umap'
+[2018.06.10-07.28.00:601][793]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/A_TestLevels/NewWorld.umap
+[2018.06.10-07.28.00:849][793]LogSavePackage: Save=211.47ms
+[2018.06.10-07.28.00:849][793]LogSavePackage: Moving '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Saved/NewWorld_BuiltData3D3CE6B7409E32CA1742DBA5B589B2DA.tmp' to '../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/A_TestLevels/NewWorld_BuiltData.uasset'
+[2018.06.10-07.28.00:851][793]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Evan Fridge/Documents/Unreal Projects/ForestSim/Content/A_TestLevels/NewWorld_BuiltData.uasset
+[2018.06.10-07.28.49:616][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.28.49:708][653]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.28.49:721][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.28.49:721][653]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:28:49 PM)
+[2018.06.10-07.28.49:721][653]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.28.49:742][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020774s)
+[2018.06.10-07.28.49:743][653]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.28.49:743][653]LogPlayLevel: PIE: World Init took: (0.000984s)
+[2018.06.10-07.28.49:743][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.022226s)
+[2018.06.10-07.28.49:763][653]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.28.49:770][653]LogInit: FAudioDevice initialized.
+[2018.06.10-07.28.49:809][653]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.28.49:812][653]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.28.49
+[2018.06.10-07.28.49:813][653]LogWorld: Bringing up level for play took: 0.003183
+[2018.06.10-07.28.49:815][653]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld -0.157
+[2018.06.10-07.28.52:763][998]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.28.52:780][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.28.52:780][998]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:28:52 PM)
+[2018.06.10-07.28.52:780][998]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.28.52:802][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020885s)
+[2018.06.10-07.28.52:803][998]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.28.52:803][998]LogPlayLevel: PIE: World Init took: (0.001452s)
+[2018.06.10-07.28.52:803][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.022921s)
+[2018.06.10-07.28.52:822][998]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.28.52:829][998]LogInit: FAudioDevice initialized.
+[2018.06.10-07.28.52:864][998]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.28.52:867][998]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.28.52
+[2018.06.10-07.28.52:868][998]LogWorld: Bringing up level for play took: 0.002468
+[2018.06.10-07.28.52:869][998]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld 0.897
+[2018.06.10-07.28.57:794][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.28.57:852][537]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.28.57:866][537]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.28.57:867][537]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:28:57 PM)
+[2018.06.10-07.28.57:867][537]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.28.57:887][537]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020451s)
+[2018.06.10-07.28.57:888][537]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.28.57:889][537]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2018.06.10-07.28.57:889][537]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.021860s)
+[2018.06.10-07.28.57:909][537]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.28.57:916][537]LogInit: FAudioDevice initialized.
+[2018.06.10-07.28.57:953][537]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.28.57:957][537]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.28.57
+[2018.06.10-07.28.57:957][537]LogWorld: Bringing up level for play took: 0.003027
+[2018.06.10-07.28.57:959][537]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld -0.013
+[2018.06.10-07.29.00:878][814]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.06.10-07.29.03:153][995]LogEditorViewport: Clicking on Actor (LMB): ObjectField (ObjectField1)
+[2018.06.10-07.29.03:826][ 29]LogEditorViewport: Clicking on Actor (LMB): ObjectField (ObjectField1)
+[2018.06.10-07.29.03:909][ 33]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Nerved Mesh)
+[2018.06.10-07.29.09:706][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.29.11:511][767]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Nerved Mesh)
+[2018.06.10-07.29.15:385][128]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Nerved Mesh)
+[2018.06.10-07.29.17:437][328]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Nerved Mesh)
+[2018.06.10-07.29.19:535][518]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Nerved Mesh)
+[2018.06.10-07.29.19:599][520]LogEditorViewport: Clicking on Actor (double click): ObjectField (ObjectField1)
+[2018.06.10-07.29.24:505][971]LogEditorViewport: Clicking on Actor (LMB): ObjectField (ObjectField1)
+[2018.06.10-07.29.24:588][975]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Nerved Mesh)
+[2018.06.10-07.29.27:563][239]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.10-07.29.28:143][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.29.46:455][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.30.22:042][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.30.44:559][917]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.30.44:579][917]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.30.44:579][917]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:30:44 PM)
+[2018.06.10-07.30.44:579][917]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.30.44:599][917]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020089s)
+[2018.06.10-07.30.44:600][917]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.30.44:601][917]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2018.06.10-07.30.44:601][917]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.021638s)
+[2018.06.10-07.30.44:620][917]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.30.44:627][917]LogInit: FAudioDevice initialized.
+[2018.06.10-07.30.44:660][917]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.30.44:664][917]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.30.44
+[2018.06.10-07.30.44:664][917]LogWorld: Bringing up level for play took: 0.002555
+[2018.06.10-07.30.44:665][917]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld 0.693
+[2018.06.10-07.30.51:724][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.30.57:564][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.31.04:700][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.31.21:284][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.31.24:248][247]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.31.24:262][247]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.31.24:262][247]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:31:24 PM)
+[2018.06.10-07.31.24:263][247]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.31.24:283][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020426s)
+[2018.06.10-07.31.24:284][247]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.31.24:284][247]LogPlayLevel: PIE: World Init took: (0.001141s)
+[2018.06.10-07.31.24:285][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.022231s)
+[2018.06.10-07.31.24:304][247]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.31.24:311][247]LogInit: FAudioDevice initialized.
+[2018.06.10-07.31.24:345][247]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.31.24:348][247]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.31.24
+[2018.06.10-07.31.24:348][247]LogWorld: Bringing up level for play took: 0.002537
+[2018.06.10-07.31.24:349][247]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld 0.378
+[2018.06.10-07.31.28:795][770]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.31.28:808][770]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.31.28:809][770]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:31:28 PM)
+[2018.06.10-07.31.28:809][770]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.31.28:830][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020812s)
+[2018.06.10-07.31.28:831][770]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.31.28:832][770]LogPlayLevel: PIE: World Init took: (0.001275s)
+[2018.06.10-07.31.28:832][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.022633s)
+[2018.06.10-07.31.28:852][770]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.31.28:860][770]LogInit: FAudioDevice initialized.
+[2018.06.10-07.31.28:898][770]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.31.28:902][770]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.31.28
+[2018.06.10-07.31.28:902][770]LogWorld: Bringing up level for play took: 0.002991
+[2018.06.10-07.31.28:904][770]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld 0.932
+[2018.06.10-07.31.37:784][105]Candidate modules for hot reload:
+[2018.06.10-07.31.37:784][105]  ForestSim
+[2018.06.10-07.31.37:784][105]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,9512 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.10-07.31.37:786][105]Warning: Starting HotReload took  0.0s.
+[2018.06.10-07.31.40:858][465]CompilerResultsLog: New page: Compilation - Jun 9, 2018, 9:31:40 PM
+[2018.06.10-07.31.40:858][465]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.10-07.31.40:858][465]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.06.10-07.31.40:858][465]CompilerResultsLog: ObjectField.cpp
+[2018.06.10-07.31.40:858][465]CompilerResultsLog: [2/3] Link UE4Editor-ForestSim-9512.dll
+[2018.06.10-07.31.40:859][465]CompilerResultsLog: [3/3] Link UE4Editor-ForestSim-9512.lib
+[2018.06.10-07.31.40:859][465]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-9512.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-9512.exp
+[2018.06.10-07.31.40:859][465]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-9512.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-9512.suppressed.exp
+[2018.06.10-07.31.40:859][465]CompilerResultsLog: Total build time: 2.90 seconds (Local executor: 2.22 seconds)
+[2018.06.10-07.31.40:859][465]LogMainFrame: MainFrame: Module compiling took 3.082 seconds
+[2018.06.10-07.31.40:901][465]LogHotReload: Re-instancing ObjectField after hot-reload.
+[2018.06.10-07.31.41:023][465]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0007 seconds. Added 11 classes and 4 folders.
+[2018.06.10-07.31.41:025][465]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.10-07.31.41:136][465]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2464 classes and 564 folders.
+[2018.06.10-07.31.41:144][465]Display: HotReload took  3.4s.
+[2018.06.10-07.31.42:792][662]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.31.42:805][662]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.31.42:805][662]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:31:42 PM)
+[2018.06.10-07.31.42:806][662]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.31.42:825][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020618s)
+[2018.06.10-07.31.42:827][662]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.31.42:827][662]LogPlayLevel: PIE: World Init took: (0.001286s)
+[2018.06.10-07.31.42:827][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.022550s)
+[2018.06.10-07.31.42:847][662]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.31.42:854][662]LogInit: FAudioDevice initialized.
+[2018.06.10-07.31.42:893][662]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.31.42:896][662]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.31.42
+[2018.06.10-07.31.42:896][662]LogWorld: Bringing up level for play took: 0.002751
+[2018.06.10-07.31.42:898][662]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld 0.926
+[2018.06.10-07.32.00:757][718]LogEditorViewport: Clicking on Actor (LMB): ObjectField (ObjectField1)
+[2018.06.10-07.32.04:610][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.32.47:447][877]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Nerved Mesh)
+[2018.06.10-07.32.48:545][995]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Nerved Mesh)
+[2018.06.10-07.32.49:195][ 51]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Nerved Mesh)
+[2018.06.10-07.32.50:785][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.33.00:981][558]Candidate modules for hot reload:
+[2018.06.10-07.33.00:981][558]  ForestSim
+[2018.06.10-07.33.00:981][558]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,3143 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.10-07.33.00:984][558]Warning: Starting HotReload took  0.0s.
+[2018.06.10-07.33.13:928][ 96]CompilerResultsLog: New page: Compilation - Jun 9, 2018, 9:33:13 PM
+[2018.06.10-07.33.13:928][ 96]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.10-07.33.13:928][ 96]CompilerResultsLog: Parsing headers for ForestSimEditor
+[2018.06.10-07.33.13:928][ 96]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\ForestSim.uproject" "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\ForestSimEditor\Development\ForestSimEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.06.10-07.33.13:929][ 96]CompilerResultsLog: Reflection code generated for ForestSimEditor in 9.3666242 seconds
+[2018.06.10-07.33.13:929][ 96]CompilerResultsLog: Performing 6 actions (4 in parallel)
+[2018.06.10-07.33.13:929][ 96]CompilerResultsLog: Nerve_Int.gen.cpp
+[2018.06.10-07.33.13:929][ 96]CompilerResultsLog: ObjectField.cpp
+[2018.06.10-07.33.13:929][ 96]CompilerResultsLog: Nerve_Int.cpp
+[2018.06.10-07.33.13:929][ 96]CompilerResultsLog: ForestSim.init.gen.cpp
+[2018.06.10-07.33.13:929][ 96]CompilerResultsLog: [5/6] Link UE4Editor-ForestSim-3143.dll
+[2018.06.10-07.33.13:929][ 96]CompilerResultsLog: [6/6] Link UE4Editor-ForestSim-3143.lib
+[2018.06.10-07.33.13:929][ 96]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-3143.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-3143.exp
+[2018.06.10-07.33.13:929][ 96]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-3143.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-3143.suppressed.exp
+[2018.06.10-07.33.13:929][ 96]CompilerResultsLog: Total build time: 12.77 seconds (Local executor: 2.53 seconds)
+[2018.06.10-07.33.13:929][ 96]LogMainFrame: MainFrame: Module compiling took 12.956 seconds
+[2018.06.10-07.33.13:960][ 96]LogClass: Could not find existing class Nerve_Int in package /Script/ForestSim for HotReload, assuming new class
+[2018.06.10-07.33.13:966][ 96]LogHotReload: Re-instancing Nerve_Int after hot-reload.
+[2018.06.10-07.33.14:017][ 96]LogHotReload: Re-instancing ObjectField after hot-reload.
+[2018.06.10-07.33.14:142][ 96]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0007 seconds. Added 11 classes and 4 folders.
+[2018.06.10-07.33.14:145][ 96]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.10-07.33.14:168][ 96]LogOutputDevice: Error: Ensure condition failed: GIsTransacting [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Engine\Private\Components\SceneComponent.cpp] [Line: 1038] 
+
+
+[2018.06.10-07.33.14:168][ 96]LogStats:             FDebug::EnsureFailed -  0.000 s
+[2018.06.10-07.33.44:544][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_25' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_25.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_25.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.1'
+[2018.06.10-07.33.44:544][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_24' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_24.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_24.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.24'
+[2018.06.10-07.33.44:544][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_23' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_23.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_23.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.23'
+[2018.06.10-07.33.44:544][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_22' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_22.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_22.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.22'
+[2018.06.10-07.33.44:545][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_21' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_21.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_21.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.21'
+[2018.06.10-07.33.44:545][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_20' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_20.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_20.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.20'
+[2018.06.10-07.33.44:545][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_19' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_19.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_19.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.19'
+[2018.06.10-07.33.44:545][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_18' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_18.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_18.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.18'
+[2018.06.10-07.33.44:545][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_17' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_17.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_17.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.17'
+[2018.06.10-07.33.44:545][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_16' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_16.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_16.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.16'
+[2018.06.10-07.33.44:545][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_15' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_15.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_15.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.15'
+[2018.06.10-07.33.44:545][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_14' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_14.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_14.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.14'
+[2018.06.10-07.33.44:546][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_13' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_13.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_13.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.13'
+[2018.06.10-07.33.44:546][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_12' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_12.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_12.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.12'
+[2018.06.10-07.33.44:546][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_11' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_11.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_11.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.11'
+[2018.06.10-07.33.44:546][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_10' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_10.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_10.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.10'
+[2018.06.10-07.33.44:546][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_9' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_9.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_9.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.9'
+[2018.06.10-07.33.44:546][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_8' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_8.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_8.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.8'
+[2018.06.10-07.33.44:546][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_7' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_7.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_7.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.7'
+[2018.06.10-07.33.44:546][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_6' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_6.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_6.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.6'
+[2018.06.10-07.33.44:546][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_5' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_5.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_5.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.5'
+[2018.06.10-07.33.44:546][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_4' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_4.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_4.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.4'
+[2018.06.10-07.33.44:547][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_3' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_3.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_3.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.3'
+[2018.06.10-07.33.44:547][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_2' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_2.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_2.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.2'
+[2018.06.10-07.33.44:547][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_1' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.None.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.None.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.1'
+[2018.06.10-07.33.44:547][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_3.HOTRELOADED_Nerve_Int_1' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.1.Nerved Mesh' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.1.Nerved Mesh' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.1'
+[2018.06.10-07.33.44:547][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_2' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_2.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_2.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.25'
+[2018.06.10-07.33.44:547][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_1' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_1.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_1.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.24'
+[2018.06.10-07.33.44:547][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_25' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_25.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_25.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.23'
+[2018.06.10-07.33.44:547][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_24' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_24.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_24.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.22'
+[2018.06.10-07.33.44:547][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_23' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_23.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_23.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.21'
+[2018.06.10-07.33.44:547][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_22' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_22.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_22.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.20'
+[2018.06.10-07.33.44:547][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_21' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_21.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_21.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.19'
+[2018.06.10-07.33.44:547][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_20' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_20.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_20.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.18'
+[2018.06.10-07.33.44:547][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_19' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_19.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_19.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.17'
+[2018.06.10-07.33.44:548][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_18' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_18.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_18.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.16'
+[2018.06.10-07.33.44:548][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_17' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_17.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_17.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.15'
+[2018.06.10-07.33.44:548][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_16' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_16.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_16.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.14'
+[2018.06.10-07.33.44:548][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_15' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_15.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_15.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.13'
+[2018.06.10-07.33.44:548][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_14' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_14.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_14.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.12'
+[2018.06.10-07.33.44:548][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_13' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_13.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_13.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.11'
+[2018.06.10-07.33.44:548][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_12' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_12.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_12.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.10'
+[2018.06.10-07.33.44:548][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_11' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_11.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_11.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.9'
+[2018.06.10-07.33.44:548][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_10' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_10.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_10.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.8'
+[2018.06.10-07.33.44:548][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_9' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_9.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_9.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.7'
+[2018.06.10-07.33.44:548][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_8' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_8.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_8.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.6'
+[2018.06.10-07.33.44:548][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_7' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_7.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_7.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.5'
+[2018.06.10-07.33.44:548][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_6' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_6.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_6.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.4'
+[2018.06.10-07.33.44:548][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_5' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_5.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_5.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.3'
+[2018.06.10-07.33.44:548][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_4' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_4.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_4.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.2'
+[2018.06.10-07.33.44:548][ 96]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_0 /Engine/Transient.World_0:PersistentLevel.ObjectField_5.HOTRELOADED_Nerve_Int_3' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_3.1.Nerved Mesh' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_3.1.Nerved Mesh' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.1'
+[2018.06.10-07.33.44:562][ 96]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2464 classes and 564 folders.
+[2018.06.10-07.33.44:562][ 96]Display: HotReload took 43.6s.
+[2018.06.10-07.33.55:182][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.34.16:611][527]Candidate modules for hot reload:
+[2018.06.10-07.34.16:611][527]  ForestSim
+[2018.06.10-07.34.16:611][527]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe ForestSim -ModuleWithSuffix=ForestSim,1488 Win64 Development -editorrecompile -canskiplink "C:/Users/Evan Fridge/Documents/Unreal Projects/ForestSim/ForestSim.uproject" ]
+[2018.06.10-07.34.16:613][527]Warning: Starting HotReload took  0.0s.
+[2018.06.10-07.34.29:567][ 11]CompilerResultsLog: New page: Compilation - Jun 9, 2018, 9:34:29 PM
+[2018.06.10-07.34.29:567][ 11]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.10-07.34.29:568][ 11]CompilerResultsLog: Parsing headers for ForestSimEditor
+[2018.06.10-07.34.29:568][ 11]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\ForestSim.uproject" "C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\ForestSimEditor\Development\ForestSimEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.06.10-07.34.29:568][ 11]CompilerResultsLog: Reflection code generated for ForestSimEditor in 9.3996508 seconds
+[2018.06.10-07.34.29:568][ 11]CompilerResultsLog: Performing 6 actions (4 in parallel)
+[2018.06.10-07.34.29:568][ 11]CompilerResultsLog: ObjectField.cpp
+[2018.06.10-07.34.29:568][ 11]CompilerResultsLog: ForestSim.init.gen.cpp
+[2018.06.10-07.34.29:568][ 11]CompilerResultsLog: Nerve_Int.gen.cpp
+[2018.06.10-07.34.29:568][ 11]CompilerResultsLog: Nerve_Int.cpp
+[2018.06.10-07.34.29:569][ 11]CompilerResultsLog: [5/6] Link UE4Editor-ForestSim-1488.dll
+[2018.06.10-07.34.29:569][ 11]CompilerResultsLog: [6/6] Link UE4Editor-ForestSim-1488.lib
+[2018.06.10-07.34.29:569][ 11]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-1488.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-1488.exp
+[2018.06.10-07.34.29:569][ 11]CompilerResultsLog:    Creating library C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-1488.suppressed.lib and object C:\Users\Evan Fridge\Documents\Unreal Projects\ForestSim\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ForestSim-1488.suppressed.exp
+[2018.06.10-07.34.29:569][ 11]CompilerResultsLog: Total build time: 12.79 seconds (Local executor: 2.53 seconds)
+[2018.06.10-07.34.29:569][ 11]LogMainFrame: MainFrame: Module compiling took 12.965 seconds
+[2018.06.10-07.34.29:610][ 11]LogClass: Could not find existing class Nerve_Int in package /Script/ForestSim for HotReload, assuming new class
+[2018.06.10-07.34.29:615][ 11]LogHotReload: Re-instancing Nerve_Int after hot-reload.
+[2018.06.10-07.34.29:675][ 11]LogHotReload: Re-instancing ObjectField after hot-reload.
+[2018.06.10-07.34.29:809][ 11]LogContentBrowser: Native class hierarchy updated for 'ForestSim' in 0.0007 seconds. Added 11 classes and 4 folders.
+[2018.06.10-07.34.29:811][ 11]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.10-07.34.29:837][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_8' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_8.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_8.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.8'
+[2018.06.10-07.34.29:837][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_7' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_7.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_7.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.7'
+[2018.06.10-07.34.29:837][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_6' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_6.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_6.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.6'
+[2018.06.10-07.34.29:838][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_5' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_5.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_5.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.5'
+[2018.06.10-07.34.29:838][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_4' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_4.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_4.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.4'
+[2018.06.10-07.34.29:838][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_3' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_3.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_3.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.3'
+[2018.06.10-07.34.29:838][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_2' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_2.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_2.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.2'
+[2018.06.10-07.34.29:838][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_0' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_25.Nerved Mesh' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_25.Nerved Mesh' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.1'
+[2018.06.10-07.34.29:838][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_0' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.1.Nerved Mesh' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.1.Nerved Mesh' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.1'
+[2018.06.10-07.34.29:839][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_25' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_25.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_25.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.25'
+[2018.06.10-07.34.29:839][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_24' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_24.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_24.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.24'
+[2018.06.10-07.34.29:839][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_23' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_23.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_23.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.23'
+[2018.06.10-07.34.29:839][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_22' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_22.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_22.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.22'
+[2018.06.10-07.34.29:839][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_21' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_21.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_21.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.21'
+[2018.06.10-07.34.29:839][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_20' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_20.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_20.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.20'
+[2018.06.10-07.34.29:839][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_19' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_19.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_19.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.19'
+[2018.06.10-07.34.29:839][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_18' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_18.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_18.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.18'
+[2018.06.10-07.34.29:839][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_17' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_17.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_17.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.17'
+[2018.06.10-07.34.29:839][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_16' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_16.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_16.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.16'
+[2018.06.10-07.34.29:839][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_15' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_15.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_15.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.15'
+[2018.06.10-07.34.29:839][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_14' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_14.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_14.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.14'
+[2018.06.10-07.34.29:840][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_13' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_13.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_13.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.13'
+[2018.06.10-07.34.29:840][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_12' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_12.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_12.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.12'
+[2018.06.10-07.34.29:840][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_11' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_11.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_11.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.11'
+[2018.06.10-07.34.29:840][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_10' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_10.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_10.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.10'
+[2018.06.10-07.34.29:840][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_9' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_9.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_9.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.9'
+[2018.06.10-07.34.29:840][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_8' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_8.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_8.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.8'
+[2018.06.10-07.34.29:840][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_7' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_7.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_7.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.7'
+[2018.06.10-07.34.29:840][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_6' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_6.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_6.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.6'
+[2018.06.10-07.34.29:840][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_5' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_5.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_5.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.5'
+[2018.06.10-07.34.29:840][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_4' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_4.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_4.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.4'
+[2018.06.10-07.34.29:840][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_3' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_3.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_3.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.3'
+[2018.06.10-07.34.29:841][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_2' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_2.None' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_2.None' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.2'
+[2018.06.10-07.34.29:841][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Engine/Transient.World_0:PersistentLevel.ObjectField_7.HOTRELOADED_Nerve_Int_0' has 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_3.1.Nerved Mesh' in its AttachChildren array, however, 'StaticMeshComponent /Engine/Transient.World_0:PersistentLevel.ObjectField_3.1.Nerved Mesh' believes it is attached to 'Nerve_Int /Engine/Transient.World_0:PersistentLevel.ObjectField_3.1'
+[2018.06.10-07.34.29:841][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_24' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_24.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_24.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.24'
+[2018.06.10-07.34.29:841][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_23' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_23.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_23.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.23'
+[2018.06.10-07.34.29:841][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_22' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_22.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_22.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.22'
+[2018.06.10-07.34.29:841][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_21' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_21.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_21.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.21'
+[2018.06.10-07.34.29:841][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_20' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_20.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_20.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.20'
+[2018.06.10-07.34.29:841][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_19' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_19.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_19.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.19'
+[2018.06.10-07.34.29:841][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_18' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_18.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_18.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.18'
+[2018.06.10-07.34.29:841][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_17' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_17.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_17.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.17'
+[2018.06.10-07.34.29:841][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_16' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_16.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_16.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.16'
+[2018.06.10-07.34.29:842][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_15' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_15.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_15.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.15'
+[2018.06.10-07.34.29:842][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_14' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_14.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_14.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.14'
+[2018.06.10-07.34.29:842][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_13' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_13.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_13.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.13'
+[2018.06.10-07.34.29:842][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_12' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_12.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_12.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.12'
+[2018.06.10-07.34.29:842][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_11' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_11.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_11.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.11'
+[2018.06.10-07.34.29:842][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_10' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_10.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_10.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.10'
+[2018.06.10-07.34.29:842][ 11]LogSceneComponent: Error: Component 'HOTRELOADED_Nerve_Int_1 /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_9' has 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_9.None' in its AttachChildren array, however, 'StaticMeshComponent /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_4.HOTRELOADED_Nerve_Int_9.None' believes it is attached to 'Nerve_Int /Game/A_TestLevels/NewWorld.NewWorld:PersistentLevel.ObjectField_1.9'
+[2018.06.10-07.34.29:854][ 11]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2464 classes and 564 folders.
+[2018.06.10-07.34.29:854][ 11]Display: HotReload took 13.3s.
+[2018.06.10-07.34.38:896][ 85]LogEditorActor: Deleted Actor: ObjectField
+[2018.06.10-07.34.38:906][ 85]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2018.06.10-07.34.41:471][392]LogEditor: Attempting to add actor of class 'ObjectField' to level at 7760.00,-4930.00,-1220.00
+[2018.06.10-07.34.42:892][534]LogEditor: Attempting to add actor of class 'ObjectField' to level at 10580.00,-5590.00,-620.00
+[2018.06.10-07.34.44:832][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-07.34.44:931][736]LogTemp: Repeating last play command: Simulate
+[2018.06.10-07.34.44:946][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-07.34.44:946][736]PIE: New page: SIE session: NewWorld (Jun 9, 2018, 9:34:44 PM)
+[2018.06.10-07.34.44:947][736]LogPlayLevel: Creating play world package: /Game/A_TestLevels/UEDPIE_0_NewWorld
+[2018.06.10-07.34.44:967][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020730s)
+[2018.06.10-07.34.44:969][736]LogAIModule: Creating AISystem for world NewWorld
+[2018.06.10-07.34.44:969][736]LogPlayLevel: PIE: World Init took: (0.001541s)
+[2018.06.10-07.34.44:969][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TestLevels/NewWorld.NewWorld to /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld (0.022879s)
+[2018.06.10-07.34.44:991][736]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.10-07.34.44:998][736]LogInit: FAudioDevice initialized.
+[2018.06.10-07.34.45:037][736]LogLoad: Game class is 'ForestSimGameMode'
+[2018.06.10-07.34.45:040][736]LogWorld: Bringing World /Game/A_TestLevels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2018.06.10-02.34.45
+[2018.06.10-07.34.45:040][736]LogWorld: Bringing up level for play took: 0.002577
+[2018.06.10-07.34.45:040][736]PIE: Play in editor start time for /Game/A_TestLevels/UEDPIE_0_NewWorld 1.069
+[2018.06.10-07.35.05:361][718]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
